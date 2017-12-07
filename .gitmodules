@@ -1,0 +1,3 @@
+[submodule "layouts-base/tnd-base-layouts"]
+	path = layouts-base/tnd-base-layouts
+	url = https://github.com/theNewDynamic/tnd-base-layouts.git
