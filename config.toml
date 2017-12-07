@@ -1,3 +1,63 @@
-baseURL = "http://example.org/"
+
+title = "Steve Bacher for Congress"
+baseurl = "https://www.example.com"
+metaDataFormat = "yaml"
+themesDir = "layouts-base"
+theme = "tnd-base-layouts"
+googleAnalytics = "UA-xxxxx-1"
+paginate = 30
+buildFuture = true
+log = false
+
+#Set Disable Aliases to true to use Netlify Redirect headers
+disableAliases = true
+#SectionPagesMenu = "main"
+newContentEditor = "atom"
+
 languageCode = "en-us"
-title = "My New Hugo Site"
+
+[social]
+  twitter = ""
+  #facebook = ""
+  #youtube = ""
+  #instagram = ""
+
+[author]
+  name = ""
+
+[outputs]
+  home = ["HTML", "HEADERS", "REDIRECTS"]
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+  suffix = ""
+  delimiter = ""
+[outputFormats]
+[outputFormats.REDIRECTS]
+  mediatype = "text/netlify"
+  baseName = "_redirects"
+  isPlainText = true
+  notAlternative = true
+[outputFormats.HEADERS]
+  mediatype = "text/netlify"
+  baseName = "_headers"
+  isPlainText = true
+  notAlternative = true
+
+
+[params]
+  description = ""
+
+[params.styles]
+  body_classes = "bg-white center site-font mid-gray mw9"
+  color_classes = "black bg-black"
+  background_color_class = "accent-color-dark"
+  books_header_class = "dn"
+
+[params.dev]
+  #js_path = "/static/dist/js"
+  #css_path = "/static/dist/css"
+
+[taxonomies]
+  #tag = "tags"
+  #category = "categories"
