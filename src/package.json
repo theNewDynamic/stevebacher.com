@@ -1,0 +1,36 @@
+{
+  "name": "gohugo-default-styles",
+  "version": "1.0.0",
+  "description": "Default Theme for Hugo Sites",
+  "main": "index.js",
+  "repository": "",
+  "author": "budparr",
+  "license": "MIT",
+  "scripts": {
+    "build:prod": "webpack --env=production -p",
+    "build:dev": "webpack --env=development --progress --colors --watch",
+    "copy:fonts": "rm -rf './../static/font' && copyfiles -f 'node_modules/typeface-muli/files/*.*' './../static/font'",
+    "start": "npm run build"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "clean-webpack-plugin": "^0.1.17",
+    "copyfiles": "^1.2.0",
+    "css-loader": "^0.28.7",
+    "cssnano": "^3.10.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.11.1",
+    "postcss": "^5.2.18",
+    "postcss-cssnext": "^3.0.2",
+    "postcss-import": "^11.0.0",
+    "postcss-loader": "^2.0.8",
+    "style-loader": "^0.16.1",
+    "tachyons": "^4.9.0",
+    "typeface-muli": "^0.0.22",
+    "webpack": "^2.7.0",
+    "webpack-merge": "^4.1.1"
+  },
+  "dependencies": {}
+}
