@@ -1,6 +1,6 @@
 
 title = "Steve Bacher for Congress"
-baseurl = "https://stevebacher.netlify.com"
+baseurl = "https://www.stevebacher.com"
 metaDataFormat = "yaml"
 themesDir = "layouts-base"
 theme = "tnd-base-layouts"
