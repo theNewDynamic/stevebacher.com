@@ -1,0 +1,38 @@
+{{$contact := .Site.GetPage ".Path" "contact.md"}}
+<article class="h-entry center cf mw7 pv2 pt5-l ph4">
+  <h1 class="f2 color-inherit">
+    {{ .Title | markdownify }}
+  </h1>
+  <section class="nested-copy-line-height lh-copy f4 nested-links nested-imgTK mid-gray">
+  {{if (or (eq .Section "article") (eq .Section "event"))}}
+    {{if .Date}}
+      {{partial "components/time.html" (dict "context" . "show_time" false)}}
+    {{end}}
+  {{end}}
+    {{ with .Params.images }}
+      <img src="{{index . 0 | absURL }}" class="fl mb2 mr3 mt2 mw5 shadow-5" alt="Image " />
+    {{ end }}
+    {{with .Params.description}}
+      <p>{{. | markdownify}}</p>
+    {{end}}
+    {{.Content}}
+    {{if .Params.venue}}
+      <div class="b--light-gray bt f6 mid-gray pt2 sans-serif">
+        {{- partial "events/venue.html" . -}}
+      </div>
+    {{end}}
+    {{partial "articles/link-to-original.html" (dict "item" .)}}{{if eq .URL "/contact/"}}<script language=Javascript type=text/javascript>document.write('Email: <a href="mai');
+      document.write('lto');
+      document.write(':&#105;&#110;&#102;&#111;');
+      document.write('@');
+      document.write('&#115;&#116;&#101;&#118;&#101;&#98;&#97;&#99;&#104;&#101;&#114;&#46;&#99;&#111;&#109;">');
+      document.write('&#105;&#110;&#102;&#111;');
+      document.write('@');
+      document.write('&#115;&#116;&#101;&#118;&#101;&#98;&#97;&#99;&#104;&#101;&#114;&#46;&#99;&#111;&#109;<\/a>');</script>
+
+
+    {{end}}
+
+
+  </section>
+</article>
