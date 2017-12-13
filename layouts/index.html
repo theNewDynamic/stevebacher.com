@@ -15,6 +15,7 @@
     {{range first 3 (where .Site.RegularPages "Section" "news")}}
       <div class="relative w-100 mb5">
         {{ partial "summary.html" (dict "item" . )}}
+        <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a>
       </div>
     {{ end }}
 

@@ -1,11 +1,11 @@
 ---
 title: "Guest Opinion: Brian Fitzpatrick Is Not Our Independent Voice in Congress"
 date: 2017-12-12T18:08:40-05:00
-description: ""
+description: "Time and time again, Congressman Brian Fitzpatrick refers to himself as “your independent voice.” As you’ll see, there is a great deal of evidence to the contrary."
 ---
 Time and time again, Congressman Brian Fitzpatrick refers to himself as “your independent voice.” As you’ll see, there is a great deal of evidence to the contrary.
 
-<!--more-->
+
 
 ### Consumer protection
 
