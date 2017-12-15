@@ -1,4 +1,4 @@
-<nav class="pv1 ph3 ph4-ns hover-bg-primary-colorTK transition" role="navigation">
+<nav class="pv2 pv1-ns ph3 ph4-ns hover-bg-primary-colorTK transition" role="navigation">
   <div class="flex-l justify-between items-start center white mw9">
     <h1>
       <a href="/" class="dim f2 no-underline color-inherit dib">
@@ -11,7 +11,7 @@
       {{ if .Site.Menus.main }}
         <ul class="pl0 mr3">
           {{ range .Site.Menus.main }}
-          <li class="list f5 f3-ns font-family-brand fw4 dib pr3">
+          <li class="list f5 f3-ns font-family-brand fw4 dib pr2 pr3-ns">
             <a class="dim no-underline color-inherit" href="{{ .URL }}" title="{{ .Name }} page">
               {{ .Name }}
             </a>
@@ -19,7 +19,10 @@
           {{ end }}
         </ul>
       {{ end }}
-      {{ partial "social-follow.html" . }}
+      <div class="absolute relative-ns top-0 right-0">  
+        {{ partial "social-follow.html" . }}
+      </div>
+
     </div>
   </div>
 </nav>
