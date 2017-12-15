@@ -3,14 +3,14 @@
   <h1 class="f2 color-inherit">
     {{ .Title | markdownify }}
   </h1>
-  <section class="nested-copy-line-height lh-copy f4 nested-links nested-imgTK mid-gray">
+  <section class="nested-copy-line-height lh-copy f5 f4-ns nested-links mid-gray">
   {{if (or (eq .Section "article") (eq .Section "event"))}}
     {{if .Date}}
       {{partial "components/time.html" (dict "context" . "show_time" false)}}
     {{end}}
   {{end}}
     {{ with .Params.images }}
-      <img src="{{index . 0 | absURL }}" class="fl mb2 mr3 mt2 mw5 shadow-5" alt="Image " />
+      <img src="{{index . 0 | absURL }}" class="fl mb2 mr3 w-40 w-60-ns img mt2 mw5 shadow-5" alt="Image " />
     {{ end }}
     {{with .Params.description}}
       <p>{{. | markdownify}}</p>
