@@ -1,5 +1,5 @@
 <footer class="bottom-0 w-100 mt6 pa4 {{$.Param "styles.footer"}}" role="contentinfo">
-  <div class="flex justify-between items-center">
+  <div class="flex-ns justify-between items-center">
     <div class="flex items-center">
       <a class="f7 fw4 hover-white no-underline ph3 sans-serif text-color-secondary" href="{{ .Site.BaseURL }}" >
         &copy; {{ now.Format "2006" }} {{ .Site.Title }}
@@ -7,7 +7,7 @@
       {{ partial "social-follow.html" . }}
     </div>
     {{with .Site.Params.copy_footer}}
-      <div class="ba b--gray ph3 pv2"> 
+      <div class="f6 ba b--gray ph2 ph3-ns pv2 w-100 w-auto-ns"> 
         {{.}}
       </div>
     {{end}}
