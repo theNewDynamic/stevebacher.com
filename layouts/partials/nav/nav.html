@@ -4,7 +4,7 @@
       <a href="/" class="dim f2 no-underline color-inherit dib">
         {{/* Steve Bacher <span class="f4">for</span> Congress */}}
         {{/* <img src="/uploads/tes8.svg" class=""/> */}}
-        <img src="/uploads/SBacker-logo-white-blue.png" class="nb2 h3"/>
+        <img src="{{"/uploads/SBacker-logo-white-blue.png" | absURL}}" class="nb2 h3"/>
       </a>
     </h1>
     <div class="flex-l items-center">
@@ -19,7 +19,7 @@
           {{ end }}
         </ul>
       {{ end }}
-      <div class="absolute relative-ns top-0 right-0">  
+      <div class="absolute relative-ns top-0 right-0"> 
         {{ partial "social-follow.html" . }}
       </div>
 
