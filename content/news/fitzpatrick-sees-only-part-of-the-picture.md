@@ -3,7 +3,11 @@ title: Fitzpatrick sees only part of the picture
 date: 2016-10-26 13:02:34 -0400
 category: Op-ed
 images: []
-description: ''
+description: 'Brian Fitzpatrick has bad judgment. The Republican congressional candidate
+  early in his campaign supported Donald Trump despite Trump''s statement that climate
+  change is a hoax, despite his racist slurs against Mexicans, despite his bigoted
+  proposal to ban all Muslims from immigrating to the U.S., despite his insults to
+  Sen. John McCain and all Americans who have been prisoners of war. '
 draft: true
 
 ---
