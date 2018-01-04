@@ -1,6 +1,7 @@
 ---
 title: About Steve
 images:
+- "/uploads/Steve_B-0002-headshot-x700.jpg"
 - "/uploads/Bacher-DSC_7554.jpg"
 type: page
 

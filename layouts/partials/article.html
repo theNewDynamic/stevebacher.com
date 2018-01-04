@@ -10,7 +10,7 @@
     {{end}}
   {{end}}
     {{ with .Params.images }}
-      <img src="{{index . 0 | absURL }}" class="fl mb2 mr3 w-40 w-60-ns img mt2 mw5 shadow-5" alt="Image " />
+      <img src="{{index . 0 | absURL }}" class="fl mb2 mr3 w-40 w-60-ns img mt2 mw6 shadow-5" alt="Image " />
     {{ end }}
     {{with .Params.description}}
       <p>{{. | markdownify}}</p>
