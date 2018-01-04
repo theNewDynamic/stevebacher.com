@@ -5,7 +5,7 @@ fields:
   name: title
   label: Title
   description: To make a word italicized put an *asterisk* before and after it, like
-    *The Saboteur*
+    *italics!*
 - name: date
   label: Date
   type: datetime
