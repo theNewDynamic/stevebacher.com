@@ -1,8 +1,10 @@
 ---
 title: Protest in Newtown over Trump cabinet planned for Monday
-date: 2018-01-04 17:45:51 +0000
+date: 2017-01-06 12:45:51 -0500
 images: []
-description: ''
+description: Activists in Bucks County will rally in Newtown Borough on Monday night
+  against the confirmation of certain proposed members to President-elect Donald Trump's
+  cabinet.
 draft: true
 
 ---
