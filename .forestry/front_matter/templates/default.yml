@@ -1,4 +1,6 @@
 ---
+pages:
+- privacy-policy.md
 hide_body: false
 fields:
 - type: textarea
