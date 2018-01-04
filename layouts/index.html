@@ -13,7 +13,7 @@
   <article id="contact" class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
     <h2>Latest News</h2>
     {{range first 3 (where .Site.RegularPages "Section" "news")}}
-      <div class="relative w-100 mb5">
+      <div class="relative w-100 mb5 bg-white pa4">
         {{ partial "summary.html" (dict "item" . )}}
         <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a>
       </div>

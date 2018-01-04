@@ -50,7 +50,7 @@ languageCode = "en-us"
   copy_footer = "PAID FOR BY FRIENDS OF STEVE BACHER"
 
 [params.styles]
-  body = "bg-white center site-fontTK sans-serif mid-gray mw9"
+  body = "bg-near-white center site-fontTK sans-serif mid-gray mw9"
   color_classes = "black bg-black"
   background_color_class = "accent-color-dark"
 
