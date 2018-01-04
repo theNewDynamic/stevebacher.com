@@ -62,8 +62,8 @@ languageCode = "en-us"
   css_path = "/static/dist/css"
 
 [taxonomies]
-  #tag = "tags"
-  #category = "categories"
+category = "categories"
+
 [[menu.main]]
   name = "About Steve"
   weight = 1
