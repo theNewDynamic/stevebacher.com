@@ -3,18 +3,16 @@ pages:
 - privacy-policy.md
 hide_body: false
 fields:
-- type: textarea
-  name: title
+- name: title
   label: Title
-  config:
-    wysiwyg: true
-  description: You can use bold or italics in titles (do not use links or images)
+  type: text
+  hidden: false
+  default: ''
 - name: date
   label: Date
   type: datetime
   hidden: false
-  default: 
+  default:
 - type: image_gallery
   name: images
   label: Images
-- type: text
