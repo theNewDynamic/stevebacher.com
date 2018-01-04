@@ -1,6 +1,5 @@
 
 title = "Steve Bacher - Progressive Democrat for Pennsylvania's 8th Congressional District"
-description = "Local activist and lifelong progressive Democrat Steve Bacher is running in the Democratic Primary, May 15, 2018, to represent Bucks County and Montgomery County in the United States House of Representatives."
 baseurl = "https://www.stevebacher.com"
 metaDataFormat = "yaml"
 themesDir = "layouts-base"
@@ -47,7 +46,7 @@ languageCode = "en-us"
 
 
 [params]
-  description = ""
+  description = "Local activist and lifelong progressive Democrat Steve Bacher is running in the Democratic Primary, May 15, 2018, to represent Bucks County and Montgomery County in the United States House of Representatives."
   copy_footer = "PAID FOR BY FRIENDS OF STEVE BACHER"
   donate_link = "https://secure.actblue.com/donate/steve-bacher-for-congress-1"
 
