@@ -18,7 +18,7 @@ fields:
   label: Description
   type: text
   hidden: false
-  default:
+  default: 
 - name: venue
   label: Venue
   type: field_group
@@ -49,12 +49,12 @@ fields:
     hidden: false
     default: ''
   hidden: false
-  default:
+  default: 
 - name: link
   label: Link
   type: text
   hidden: false
-  default:
+  default: 
 - type: image_gallery
   name: images
   label: Images
