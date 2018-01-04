@@ -11,6 +11,15 @@ fields:
   type: datetime
   hidden: false
   default: 
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - News
+    - Op-ed
+  label: Category
+  name: category
 - type: image_gallery
   name: images
   label: Images
