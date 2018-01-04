@@ -7,8 +7,7 @@ description: Newtown Township resident Kierstyn Zolfo considers herself an indep
   of President Donald Trump's administration has cast her firmly on the side of the
   Democrats.
 images: []
-draft: true
-
+category: News
 ---
 By James Boyle
 

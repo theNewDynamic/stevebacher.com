@@ -6,8 +6,7 @@ description: Fossil fuel is dead. That was the message of several hundred protes
   Park in Upper Makefield on Wednesday where the Delaware River Basin Commission held
   its monthly meeting.
 images: []
-draft: true
-
+category: News
 ---
 By Liz Johnson, correspondent
 
