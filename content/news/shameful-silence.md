@@ -7,8 +7,6 @@ description: Congressman-elect Brian Fitzpatrick is missing in action. Since the
   nation. No statement regarding the nomination of white supremacist Steve Bannon
   as senior advisor to the president-elect.
 images: []
-draft: true
-
 ---
 _Bucks County Courier Times_
 

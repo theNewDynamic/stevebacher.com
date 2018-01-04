@@ -6,8 +6,6 @@ description: Congressman Brian Fitzpatrick and Sens. Pat Toomey and Bob Casey sh
   join the other members of Congress to introduce, co-sponsor and pass the TRUMP Act
   immediately.
 images: []
-draft: true
-
 ---
 _Bucks County Courier Times_
 

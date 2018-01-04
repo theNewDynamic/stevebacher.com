@@ -6,7 +6,6 @@ description: What will it take for Congress to take climate change seriously and
   fuels?
 category: Op-ed
 images: []
-draft: true
 
 ---
 **By STEVE BACHER**

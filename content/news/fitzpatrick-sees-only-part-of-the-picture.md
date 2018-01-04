@@ -8,8 +8,6 @@ description: 'Brian Fitzpatrick has bad judgment. The Republican congressional c
   change is a hoax, despite his racist slurs against Mexicans, despite his bigoted
   proposal to ban all Muslims from immigrating to the U.S., despite his insults to
   Sen. John McCain and all Americans who have been prisoners of war. '
-draft: true
-
 ---
 **By STEVE BACHER**
 

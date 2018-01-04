@@ -5,8 +5,6 @@ category: Op-ed
 description: Congressman Brian Fitzpatrick, and Sens. Toomey and Casey should join
   other members of Congress and pass the TRUMP Act immediately, unanimously.
 images: []
-draft: true
-
 ---
 _Bucks County Courier Times_
 
