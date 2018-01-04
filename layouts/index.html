@@ -1,13 +1,8 @@
 {{ define "main" }}
 
 <div class="flex-ns flex-wrap"> 
-  <div class="f2 ba1 br2 o-90 b--light-gray bg-primary-color dib nt4 nt5-ns pt2 pb5 ph4 ml4-ns white"> 
-    <p class="f3 f2-ns fw7 font-family-brand pa0 mb2 mt0 ph0">
-      Sign up to get updates from Steve
-      </p>
-      <!-- Begin Constant Contact Inline Form Code -->
-      <div class="ctct-inline-form" data-form-id="5bd5c183-577a-44ea-9883-eeccee28b0a5"></div>
-      <!-- End Constant Contact Inline Form Code -->
+  <div class="f3 f2-l ba1 br2 o-90 b--light-gray bg-white lh-copy dib  nt5-ns pt2 pb5 ph4 ml4-ns primary-color-dark"> 
+  {{.Site.Params.home_page_quote | safeHTML}}
   </div>
 
   <article id="contact" class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
@@ -21,6 +16,13 @@
 
 
   </article>
+
+
+  <div class="ba1 b--light-gray bg-primary-color dib pt2 pb5 ph4 white w-100"> 
+    <div class="w-90 center"> 
+      {{partial "newsletter-signup.html" .}}
+    </div>
+  </div>
 
 </div>
 
