@@ -1,28 +1,33 @@
 {{ define "main" }}
 
 <div class="flex-ns flex-wrap"> 
-  <div class="center f3 f2-l ba1 br2 o-90 b--light-gray bg-white lh-copy dib  nt5-ns pt2 pb5 ph4 ml4-ns primary-color-dark w-90"> 
+  <div class="center fw8 f3 f2-l ba1 br2 o-90 b--light-gray bg-white lh-copy dib  nt5-ns pt2 pb5 ph4 ml4-ns primary-color-dark w-90"> 
   {{.Site.Params.home_page_quote | safeHTML}}
   </div>
 
-  <article id="contact" class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
-    <h2>Latest News</h2>
-    {{range first 3 (where .Site.RegularPages "Section" "news")}}
-      <div class="relative w-100 mb5 bg-white pa4">
-        {{ partial "summary.html" (dict "item" . )}}
-        <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a>
+  <article id="news" class="ph3 ph5-l pv3 pv4-l f4 center lh-copy mid-gray w-100">
+    <h2>News</h2>
+    <div class="flex flex-wrap justify-between">
+      {{range first 3 (where .Site.RegularPages "Section" "news")}}
+      <div class="w-30 mb5 bg-white pa4">
+      {{ partial "summary.html" (dict "item" . )}}
+      <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a>
       </div>
-    {{ end }}
+      {{ end }}
+      </div>
   </article>
 
-  <article id="contact" class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
+  <article id="issue" class="ph3 ph5-l pv3 pv4-l f4 center lh-copy mid-gray w-100">
+
     <h2>On the Issues</h2>
-    {{range first 3 (where .Site.RegularPages "Section" "issue")}}
-      <div class="relative w-100 mb5 bg-white pa4">
-        {{ partial "summary.html" (dict "item" . )}}
-        <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a>
-      </div>
+    <div class="flex flex-wrap justify-between">
+      {{range first 30 (where .Site.RegularPages "Section" "issue")}}
+      <div class="relative w-30 mb5 bg-white pa4">
+      {{ partial "summary-issue.html" (dict "item" . )}}
+      <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a></div>
     {{ end }}
+    </div>
+
   </article>
 
 
