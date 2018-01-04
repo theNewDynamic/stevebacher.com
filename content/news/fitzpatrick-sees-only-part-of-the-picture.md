@@ -1,7 +1,7 @@
 ---
 title: Fitzpatrick sees only part of the picture
 date: 2016-10-26 13:02:34 -0400
-category: Op-ed
+categories: ['Op-ed']
 images: []
 description: 'Brian Fitzpatrick has bad judgment. The Republican congressional candidate
   early in his campaign supported Donald Trump despite Trump''s statement that climate

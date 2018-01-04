@@ -5,7 +5,7 @@ images: []
 description: Activists in Bucks County will rally in Newtown Borough on Monday night
   against the confirmation of certain proposed members to President-elect Donald Trump's
   cabinet.
-category: News
+categories: ['News']
 ---
 By James Boyle
 

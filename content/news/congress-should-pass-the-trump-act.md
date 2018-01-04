@@ -1,7 +1,7 @@
 ---
 title: Congress should pass the TRUMP Act
 date: 2017-04-12 12:58:23 -0400
-category: Op-ed
+categories: ['Op-ed']
 description: Congressman Brian Fitzpatrick and Sens. Pat Toomey and Bob Casey should
   join the other members of Congress to introduce, co-sponsor and pass the TRUMP Act
   immediately.

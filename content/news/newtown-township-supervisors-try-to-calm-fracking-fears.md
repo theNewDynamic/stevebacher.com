@@ -6,7 +6,7 @@ description: We're on the same side, all five Newtown Township supervisors told 
   fracking ordinance being circulated among officials in Newtown Township, Wrightstown
   and Upper Makefield.
 images: []
-category: News
+categories: ['News']
 ---
 By Chris English
 
