@@ -1,6 +1,6 @@
 ---
 title: LGBT Rights
-date: 2018-01-05 15:55:16 +0000
+date: 2017-11-01 10:55:16 -0400
 description: Who a person loves is  up to them.  What gender a person identifies as
   or chooses not to identify is up to them.  Our government should support equal rights
   for everyone regardless of sexual orientation or gender identity.
