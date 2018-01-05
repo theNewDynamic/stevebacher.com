@@ -6,10 +6,10 @@
 
 
   <article id="news" class="ph3 ph5-l pv3 pv4-l f4 center lh-copy mid-gray w-100">
-    <h2>News</h2>
+    <h2>Latest News</h2>
     <div class="flex flex-wrap justify-between">
       {{range first 3 (where .Site.RegularPages "Section" "news")}}
-      <div class="w-100 w-30-ns mb5 bg-white pa4">
+      <div class="w-100 w-30-ns mb3 bg-white pa4">
       {{ partial "summary.html" (dict "item" . )}}
       <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a>
       </div>
@@ -17,20 +17,23 @@
       </div>
   </article>
 
-  <article id="issue" class="ph3 ph5-l pv3 pv4-l f4 center lh-copy mid-gray w-100">
+  <article id="issue" class="ph3 ph5-l pv3 mb4 f4 center lh-copy mid-gray w-100">
 
     <h2>On the Issues</h2>
     <div class="flex flex-wrap justify-between">
-      {{range first 30 (where .Site.RegularPages "Section" "issue")}}
+      {{range first 3 (where .Site.RegularPages "Section" "issue")}}
       <div class="relative w-100 w-30-ns mb5 bg-white pa4">
       {{ partial "summary-issue.html" (dict "item" . )}}
       <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a></div>
     {{ end }}
+
+    <a href="/issue/" class="f4 b link br2 ph3 pv2 db dib-l white bg-accent-color hover-bg-white hover-black mr4-l">See All Issues</a>
+
     </div>
 
   </article>
 
 
-  
+
 
 {{ end }}
