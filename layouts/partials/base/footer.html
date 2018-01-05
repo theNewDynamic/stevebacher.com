@@ -1,3 +1,11 @@
+
+{{if ne .URL "/join-the-team/"}}
+<div class="ba1 b--light-gray bg-primary-color dib pt2 pb5 ph4 white w-100"> 
+  <div class="w-90 center"> 
+    {{partial "newsletter-signup.html" .}}
+  </div>
+</div>
+{{end}}
 <footer class="bottom-0 w-100 mt6 pa4 {{$.Param "styles.footer"}}" role="contentinfo">
   <div class="flex-ns justify-between items-center">
     <div class="flex items-center">

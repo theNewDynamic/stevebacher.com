@@ -5,7 +5,7 @@
   <header class="bg-primary-color" >
     <div class="bg-black-30 white tc">
       {{partial "nav/nav.html" .}}
-      <div class="bg-top cover tc-l pv4 pv6-l ph3 ph4-ns vh-50 vh-75-ns" style="background-image: url('{{ $featured_image }}');">
+      <div class="bg-top cover flex flex-wrap justify-end pv4 pv6-l ph3 ph4-ns vh-50 vh-75-ns" style="background-image: url('{{ $featured_image }}');">
         {{/* <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
@@ -14,6 +14,8 @@
             {{ . }}
           </h2>
         {{ end }} */}}
+
+        <a href="/join-the-team/" class="self-end f2 o-90 b link br2 ph3 pv2 db dib-l white bg-accent-color hover-bg-white hover-black mr4-l">Join Steve's Team</a>
       </div>
     </div>
   </header>
