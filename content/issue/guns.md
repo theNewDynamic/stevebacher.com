@@ -1,6 +1,6 @@
 ---
 title: Guns
-date: 2018-01-04 14:26:27 +0000
+date: 2017-12-31 09:26:27 -0500
 description: Along with the vast majority of Americans, I support universal background
   checks...
 images: []
