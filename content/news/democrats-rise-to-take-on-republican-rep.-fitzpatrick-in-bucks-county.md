@@ -1,5 +1,5 @@
 ---
-title: Democrats rise to take on Republican Rep. Fitzpatrick in Bucks County
+title: Democrats Rise to Take on Republican Rep. Fitzpatrick in Bucks County
 date: 2018-01-04 12:07:17 -0500
 categories:
 - News
