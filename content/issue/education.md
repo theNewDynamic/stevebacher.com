@@ -1,6 +1,6 @@
 ---
 title: Education
-date: 2018-01-04 14:27:37 +0000
+date: 2018-01-01 09:27:37 -0500
 description: We need to invest in our children, starting with pre-school.
 images: []
 
