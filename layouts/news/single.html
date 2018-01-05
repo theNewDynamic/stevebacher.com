@@ -1,17 +1,24 @@
 {{ define "main" }} {{$main_section := .Site.GetPage "section" .Section}}
 <div class="flex-ns flex-wrap center mv5 mw8 w-90">
   <article class="w-100 w-70-ns bg-white pv4 ph4">
-    <h1 class="f5 helvetica tracked black">
+    <div class="f5 helvetica tracked black">
     {{with .Params.categories}}
       {{ range . }}
       <h2>{{- . -}}</h2>
       {{ end }}
     {{end}}
-      </h1>
-    <h2 class="f1 primary-color">
+      </div>
+
+      {{if .Date}}
+        {{partial "components/time.html" (dict "context" . "show_time" false)}}
+      {{end}}
+    <h1 class="f1 primary-color">
         {{ .Title }}
-      </h2> {{with .Params.images}} {{ $images := index (.) 0 }} {{ if $images }} {{ partial "components/image.html" (dict "src" $images "class" "ma0 mw-100") }} {{ end }} {{end}}
+      </h1> {{with .Params.images}} {{ $images := index (.) 0 }} {{ if $images }} {{ partial "components/image.html" (dict "src" $images "class" "ma0 mw-100") }} {{ end }} {{end}}
     <div class="nested-copy-line-height lh-copy nested-links nested-img measure-widfe mid-gray">
+
+      {{with .Params.author}}by {{.}}{{end}}
+
       {{ .Content }}
     </div>
   </article>
