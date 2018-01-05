@@ -13,3 +13,8 @@ type: page
 **Steve’s parents, Joel and Carolyn Bacher, moved to Newtown in 1996** the same year Karen and Steve were married. Steve and his family followed Carolyn and Joel to Newtown in 2008. Steve and Karen have been married 21 years. Their son Julian is now 13, and their daughter Nana is 8.
 
 **Steve is a proud lifelong Democrat.** He became involved with the Newtown Democratic Club in 2008, knocking on doors for then-candidate Barack Obama, and was elected Vice Chair in 2014, serving until he moved with his family to Lower Makefield in 2017.
+
+# Contact
+
+PO Box 188  \\
+Morrisville, PA 19067

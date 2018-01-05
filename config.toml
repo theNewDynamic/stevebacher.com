@@ -71,10 +71,10 @@ identifier = "about"
 url = "/about/"
 
 [[menu.main]]
-name = "Contact"
+name = "Issues"
 weight = 2
-identifier = "contact"
-url = "/contact/"
+identifier = "issues"
+url = "/issue/"
 
 [[menu.main]]
 name = "News"
