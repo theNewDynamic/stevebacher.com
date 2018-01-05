@@ -1,6 +1,6 @@
 ---
 title: Healthcare
-date: 2018-01-04 14:24:45 +0000
+date: 2018-01-04 10:00:00 -0500
 description: Single Payer, or Medicare for All, would provide health insurance coverage
   for everyone
 images: []
