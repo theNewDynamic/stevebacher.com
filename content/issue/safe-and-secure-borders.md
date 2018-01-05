@@ -1,6 +1,6 @@
 ---
 title: " Safe and Secure Borders"
-date: 2018-01-04 14:30:41 +0000
+date: 2017-12-30 09:30:41 -0500
 description: I support fully funding whatever security experts require to keep our
   borders safe and secure – not a thousand-mile wall
 images: []
