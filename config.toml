@@ -49,6 +49,8 @@ languageCode = "en-us"
   description = "Local activist and lifelong progressive Democrat Steve Bacher is running in the Democratic Primary, May 15, 2018, to represent Bucks County and Montgomery County in the United States House of Representatives."
   home_page_quote = "2018 will be the year the Democratic activist resistance takes back the Congress. We can do this together. We must do it for ourselves, and for our children and our grandchildren. Let’s work together to make it so. <br />—Steve Bacher"
   copy_footer = "PAID FOR BY FRIENDS OF STEVE BACHER"
+  address_footer = "PO Box 188 &bull; Morrisville, PA 19067"
+  title_footer = "Steve Bacher"
   donate_link = "https://secure.actblue.com/donate/steve-bacher-for-congress-1"
 
 [params.styles]

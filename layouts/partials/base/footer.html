@@ -10,9 +10,13 @@
   <div class="flex-ns justify-between items-center">
     <div class="flex items-center">
       <a class="f7 fw4 hover-white no-underline ph3 sans-serif text-color-secondary" href="{{ .Site.BaseURL }}" >
-        &copy; {{ now.Format "2006" }} {{ .Site.Title }}
+        &copy; {{ now.Format "2006" }} {{ .Site.Params.title_footer }}
       </a>
+
+      <div class="f7 mr3">{{.Site.Params.address_footer | safeHTML }}</div>
       {{ partial "social-follow.html" . }}
+
+
     </div>
     {{with .Site.Params.copy_footer}}
       <div class="f6 ba b--gray ph2 ph3-ns pv2 w-100 w-auto-ns"> 
