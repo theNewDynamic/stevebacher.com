@@ -1,10 +1,11 @@
 ---
 title: What will be our Pearl Harbor of climate change?
-date: 2016-08-02 18:03:42 +0000
+date: 2016-08-02 14:03:42 -0400
 description: What will it take for Congress to take climate change seriously and take
   the steps necessary to transform our economy to one that is not dependent on fossil
   fuels?
-categories: ['Op-ed']
+categories:
+- Op-ed
 images: []
 
 ---
