@@ -1,4 +1,6 @@
 ---
+pages:
+- issue/women.md
 hide_body: false
 fields:
 - type: text
