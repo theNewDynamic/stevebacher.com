@@ -1,9 +1,9 @@
 ---
 title: Immigration
-date: 2018-01-04 14:31:32 +0000
+date: 2017-12-29 09:31:32 -0500
 images: []
 description: ''
-draft: false
+
 ---
 Respect for immigrants – Most citizens of the U.S. are immigrants or descended from immigrants.  My grandfather and great-grandparents were immigrants.  I aim to treat all immigrants and their children as I would want my grandparents to be treated:  with respect and dignity.
 
