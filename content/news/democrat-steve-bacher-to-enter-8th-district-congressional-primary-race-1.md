@@ -5,7 +5,6 @@ categories:
 - News
 images: []
 description: ''
-draft: true
 
 ---
 **Published On:** Fri, Jan 5th, 2018 in the New Hope Free Press
