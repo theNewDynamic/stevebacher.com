@@ -1,11 +1,12 @@
 ---
 title: Women
-date: 2018-01-05 09:41:54 +0000
+date: 2017-12-04 04:41:54 -0500
 category: ''
 images: []
 description: Women's rights are human rights. Women must be treated equally and respectfully
   in all parts of our society, and their reproductive choices are essential to their
   lives.
+categories: []
 
 ---
 * I'm proud to call myself a feminist, as feminism is the radical notion that women are people.  We as a society are wasting half our talent as women are kept from achieving their potential in media, academia, business and our armed forces, because of sexism in its many forms, including harassment by bosses, coworkers and venture capitalists.  I want my daughter and your daughters to have all the choices my son and your sons have.
