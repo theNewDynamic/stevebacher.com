@@ -6,14 +6,13 @@ description: Who a person loves is  up to them.  What gender a person identifie
   for everyone regardless of sexual orientation or gender identity.
 categories: []
 images: []
-draft: true
 
 ---
 No one should be denied equal opportunity for housing, employment, healthcare  or serving our country based on their sexual orientation of gender choices. No LGBT person should be denied public accommodations. 
 
 We need better training of police forces to help prosecute and prevent hate crimes. Some District Attorneys need training too.  I will work to make sure funding for this kind of training is in the Justice Department budget. 
 
-Denying Lesbian and Gay couples the right to marry is unconstitutional. Congress should pass law confirming this standard in case  the Supreme court ever reverses itself. Love is Love is Love is Love 
+Denying Lesbian and Gay couples the right to marry is unconstitutional. Congress should pass law confirming this standard in case  the Supreme court ever reverses itself. Love is Love is Love is Love.
 
 I will introduce a new Equal Rights Amendment - 
 
