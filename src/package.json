@@ -22,6 +22,7 @@
     "cssnano": "^3.10.0",
     "extract-text-webpack-plugin": "^2.1.0",
     "file-loader": "^0.11.1",
+    "lazysizes": "^4.0.1",
     "postcss": "^5.2.18",
     "postcss-cssnext": "^3.0.2",
     "postcss-import": "^11.0.0",
