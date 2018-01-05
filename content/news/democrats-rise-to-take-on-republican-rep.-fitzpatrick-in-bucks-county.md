@@ -9,7 +9,7 @@ description: ''
 ---
 by Dave Davies
 
-Published on January 3, 2018 on WHYY.org
+Published on January 4, 2018 on WHYY.org
 
 [https://whyy.org/articles/democrats-rise-take-republican-rep-fitzpatrick-bucks-county/](https://whyy.org/articles/democrats-rise-take-republican-rep-fitzpatrick-bucks-county/ "https://whyy.org/articles/democrats-rise-take-republican-rep-fitzpatrick-bucks-county/")
 
