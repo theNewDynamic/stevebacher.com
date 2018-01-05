@@ -65,27 +65,31 @@ languageCode = "en-us"
 category = "categories"
 
 [[menu.main]]
-  name = "About Steve"
-  weight = 1
-  identifier = "about"
-  url = "/about/"
+name = "About Steve"
+weight = 1
+identifier = "about"
+url = "/about/"
 
 [[menu.main]]
-  name = "Contact"
-  weight = 2
-  identifier = "contact"
-  url = "/contact/"
+name = "Contact"
+weight = 2
+identifier = "contact"
+url = "/contact/"
 
 [[menu.main]]
-  name = "News"
-  weight = 3
-  identifier = "news"
-  url = "/news/"
-  [[menu.main]]
-    name = "Join the Team"
-    weight = 4
-    identifier = "join-the-team"
-    url = "/join-the-team/"
+name = "News"
+weight = 3
+identifier = "news"
+url = "/news/"
+
+[[menu.cta]]
+name = "Join the Team"
+weight = 4
+identifier = "join-the-team"
+url = "/join-the-team/"
+
+
+
 
 # [[menu.main]]
 #   name = "Get Involved"
