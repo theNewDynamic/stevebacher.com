@@ -7,6 +7,12 @@ images: []
 description: ''
 
 ---
+by Dave Davies
+
+Published on January 3, 2018 on WHYY.org
+
+[https://whyy.org/articles/democrats-rise-take-republican-rep-fitzpatrick-bucks-county/](https://whyy.org/articles/democrats-rise-take-republican-rep-fitzpatrick-bucks-county/ "https://whyy.org/articles/democrats-rise-take-republican-rep-fitzpatrick-bucks-county/")
+
 Two more Democrats have emerged as likely candidates for the Bucks County congressional seat held by Republican U.S. Rep. Brian Fitzpatrick. Steve Bacher is an environmental activist. Scott Wallace is a wealthy progressive with a pedigree dating back to the New Deal. His grandfather, Henry Wallace served as vice president under Franklin Delano Roosevelt and ran an independent candidacy for president in 1948 under the banner of the Progressive Party.
 
 The 8th Congressional District appears to be a swing seat when you look at party registration and presidential votes, which are nearly evenly split between Republicans and Democrats.
