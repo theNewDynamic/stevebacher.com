@@ -1,0 +1,32 @@
+{{ define "main" }}
+  {{$main_section := .Site.GetPage "section" "issue"}}
+  {{ $section := where .Data.Pages "Section" .Section }}
+  <div class="ba br2 shadow-5 b--light-gray mw8 center mv5 ph4 bg-white"> 
+    <h1 class="f5 helvetica tracked black">
+      {{$main_section.Title}}
+    </h1>
+    {{ range  first 1 ($section) }}
+    <h2 class="f1 primary-color">
+      {{ .Title }}
+    </h2>
+    {{end}}
+    <div class="flex-ns flex-wrap mt2 mb6">
+      {{ range  first 1 ($section) }}
+        <article class="center cf w-100 w-70-ns">
+          {{with .Params.images}}
+            {{ $images := index (.) 0  }}
+            {{ if $images }}
+              {{ partial "components/image.html" (dict "src" $images "class" "ma0 mw-100") }}
+            {{ end }}
+          {{end}}
+          <div class="nested-copy-line-height lh-copy nested-links nested-img measure-wide mid-gray">
+            {{ .Content }}
+          </div>
+        </article>
+      {{end}}
+      <div class="br2 w-100 w-30-ns mb5">
+        {{ partial "menu-contextual.html" . }}
+      </div>
+    </div>
+  </div>
+{{ end }}
