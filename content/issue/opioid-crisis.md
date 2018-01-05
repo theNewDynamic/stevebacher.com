@@ -1,10 +1,11 @@
 ---
 title: Opioid Crisis
-date: 2018-01-04 17:36:55 +0000
+date: 2017-12-28 12:36:55 -0500
 images: []
 description: 'Treatment and prevention programs must be fully funded as proposed by
   experts. '
 category: ''
+categories: []
 
 ---
 * Treatment and prevention programs must be fully funded as proposed by experts. Although Congressman Fitzpatrick has helped increase the issue’s visibility, his party seeks to cut, not increase, treatment and prevention programs.
