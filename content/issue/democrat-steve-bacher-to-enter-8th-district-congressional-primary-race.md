@@ -5,7 +5,6 @@ categories:
 - News
 images: []
 description: ''
-draft: true
 
 ---
 Progressive activist Steve Bacher will kick off his campaign to unseat Brian Fitzpatrick on Saturday at 10 a.m. at The Temperance House in Newtown, organizers announced Friday. He will face Rachel Reddick and a rumored third candidate in the Democratic Primary Election being held May 15.
