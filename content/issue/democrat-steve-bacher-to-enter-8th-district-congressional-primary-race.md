@@ -7,6 +7,10 @@ images: []
 description: ''
 
 ---
+**Published On:** Fri, Jan 5th, 2018 in the New Hope Free Press
+
+[https://www.newhopefreepress.com/2018/01/05/democrat-steve-bacher-to-enter-8th-district-congressional-primary-race/](https://www.newhopefreepress.com/2018/01/05/democrat-steve-bacher-to-enter-8th-district-congressional-primary-race/ "New Hope Free Press: Democrat Steve Bacher to Enter 8th District Congressional Primary Race")
+
 Progressive activist Steve Bacher will kick off his campaign to unseat Brian Fitzpatrick on Saturday at 10 a.m. at The Temperance House in Newtown, organizers announced Friday. He will face Rachel Reddick and a rumored third candidate in the Democratic Primary Election being held May 15.
 
 Pennsylvania’s 8th congressional district includes Bucks County and part of Montgomery County, and Republican Brian Fitzpatrick has represented the district since 2017.
