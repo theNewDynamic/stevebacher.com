@@ -9,9 +9,9 @@ categories:
 images: []
 
 ---
+by Peg Dissinger
+
 Time and time again, Congressman Brian Fitzpatrick refers to himself as “your independent voice.” As you’ll see, there is a great deal of evidence to the contrary.
-
-
 
 ### Consumer protection
 
@@ -46,4 +46,4 @@ Another example of Fitzpatrick’s lack of independence is his vote for HR 1181.
 
 The above examples of votes by Fitzpatrick illustrate that while he is our congressman, he is not our “independent voice” in Congress.
 
-*Peg Dissinger is a resident of Newtown Township*
+_Peg Dissinger is a resident of Newtown Township_
