@@ -9,7 +9,7 @@ description: ''
 ---
 By Charlie Sahner
 
-**Published On:** Fri, Jan 5th, 2018 in the New Hope Free Press
+Published On: Fri, Jan 5th, 2018 in the New Hope Free Press
 
 [https://www.newhopefreepress.com/2018/01/05/democrat-steve-bacher-to-enter-8th-district-congressional-primary-race/](https://www.newhopefreepress.com/2018/01/05/democrat-steve-bacher-to-enter-8th-district-congressional-primary-race/ "https://www.newhopefreepress.com/2018/01/05/democrat-steve-bacher-to-enter-8th-district-congressional-primary-race/")
 
