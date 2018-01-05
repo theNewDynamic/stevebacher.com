@@ -1,6 +1,6 @@
 ---
 title: Jobs and Working Families
-date: 2018-01-04 14:23:53 +0000
+date: 2018-01-05 11:00:00 -0500
 description: Our national minimum wage should be increased and regionally adjusted
   so that a family of four with one wage-earner working full-time at minimum wage
   can stay out of poverty.
