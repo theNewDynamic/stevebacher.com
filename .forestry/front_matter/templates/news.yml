@@ -1,5 +1,7 @@
 ---
 pages:
+- issue/mass-incarceration.md
+- issue/opioid-crisis.md
 - issue/lgbt-rights.md
 - issue/women.md
 hide_body: false
