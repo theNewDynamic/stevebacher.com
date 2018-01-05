@@ -6,4 +6,4 @@ images: []
 description: ''
 
 ---
-I support the Democratic Party Platform.
+I support the [Democratic Party Platform](https://www.democrats.org/party-platform "Democratic Party Platform").
