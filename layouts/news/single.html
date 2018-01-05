@@ -1,6 +1,5 @@
-{{ define "main" }} {{ $section := where .Data.Pages "Section" .Section }}{{$main_section := .Site.GetPage "section" .Section}}
+{{ define "main" }} {{$main_section := .Site.GetPage "section" .Section}}
 <div class="flex-ns flex-wrap center mv5 mw8 w-90">
-{{ range  first 1 ($section) }}
   <article class="w-100 w-70-ns bg-white pv4 ph4">
     <h1 class="f5 helvetica tracked black">
         {{$main_section.Title}}
@@ -12,7 +11,6 @@
       {{ .Content }}
     </div>
   </article>
-  {{end}}
   <div class="br2 w-100 w-30-ns mb5">
     {{ partial "menu-contextual.html" . }}
   </div>
