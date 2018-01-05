@@ -1,6 +1,6 @@
 ---
 title: Climate Change and the Environment
-date: 2018-01-04 14:28:36 +0000
+date: 2018-01-05 09:00:00 -0500
 description: I support the bipartisan proposal of the Citizens Climate Lobby to create
   a Carbon Dividend
 images: []
