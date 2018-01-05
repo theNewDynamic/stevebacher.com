@@ -1,15 +1,15 @@
 {{ define "main" }}
 
-<div class="flex-ns flex-wrap"> 
-  <div class="center fw8 f3 f2-l ba1 br2 o-90 b--light-gray bg-white lh-copy dib  nt5-ns pt2 pb5 ph4 ml4-ns primary-color-dark w-90"> 
-  {{.Site.Params.home_page_quote | safeHTML}}
-  </div>
+
+  <div class="center ba1 br2 b--light-gray bg-white flex-l flex-wrap items-center  lh-copy nt5-ns w-90-l pa3"><div class="pa3 responsive-iframe w-100 w-60-l"><iframe width="720" height="405" src="https://www.youtube.com/embed/vty-AzzdljM?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div><div class="br2 f4 w-100 fw8 w-40-l pa3 primary-color-dark bg-white-90">{{.Site.Params.home_page_quote | safeHTML}}</div></div>
+
+
 
   <article id="news" class="ph3 ph5-l pv3 pv4-l f4 center lh-copy mid-gray w-100">
     <h2>News</h2>
     <div class="flex flex-wrap justify-between">
       {{range first 3 (where .Site.RegularPages "Section" "news")}}
-      <div class="w-30 mb5 bg-white pa4">
+      <div class="w-100 w-30-ns mb5 bg-white pa4">
       {{ partial "summary.html" (dict "item" . )}}
       <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a>
       </div>
@@ -22,7 +22,7 @@
     <h2>On the Issues</h2>
     <div class="flex flex-wrap justify-between">
       {{range first 30 (where .Site.RegularPages "Section" "issue")}}
-      <div class="relative w-30 mb5 bg-white pa4">
+      <div class="relative w-100 w-30-ns mb5 bg-white pa4">
       {{ partial "summary-issue.html" (dict "item" . )}}
       <a href="{{.URL}}" class="dim f7 link red">read more &raquo;</a></div>
     {{ end }}
@@ -37,6 +37,5 @@
     </div>
   </div>
 
-</div>
 
 {{ end }}

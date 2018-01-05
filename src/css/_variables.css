@@ -1,8 +1,8 @@
 :root {
-  
+
   --blue: #104a92;
   --primary-color: var(--blue);
-  --primary-color-dark:   #111;
+  --primary-color-dark:   #16243b;
   --primary-color-light:  #ABA194;
   --accent-color:         #D3002D;
   --accent-color-light:   #F2F4F3;
@@ -14,9 +14,10 @@
   --divider-color:        #f6f6f6;
   --warn-color: red;
   --red:  var(--accent-color);
-  --twitter: "#55acee";
-  --facebook: "#3b5998";
-  --instagram: "#e95950";
-  --youtube: "#bb0000";
+  --twitter: #55acee;
+  --facebook: #3b5998;
+  --instagram: #e95950;
+  --youtube: #bb0000;
+  --near-white: #f4f8fb;
 
 }
