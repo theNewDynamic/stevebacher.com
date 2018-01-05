@@ -2,7 +2,8 @@
 title: Opioid Crisis
 date: 2018-01-04 17:36:55 +0000
 images: []
-description: ''
+description: 'Treatment and prevention programs must be fully funded as proposed by
+  experts. '
 category: ''
 
 ---
