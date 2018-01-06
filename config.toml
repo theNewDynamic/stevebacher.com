@@ -56,6 +56,7 @@ description = "Local activist and lifelong progressive Democrat Steve Bacher is 
 donate_link = "https://secure.actblue.com/donate/steve-bacher-for-congress-1"
 home_page_quote = "2018 will be the year the Democratic activist resistance takes back the Congress. We can do this together. We must do it for ourselves, and for our children and our grandchildren. Let’s work together to make it so. <br />—Steve Bacher"
 title_footer = "Steve Bacher"
+images = ["/uploads/Steve_B-0002-headshot-x700.jpg"]
 [params.dev]
 css_path = "/static/dist/css"
 js_path = "/static/dist/js"
