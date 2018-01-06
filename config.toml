@@ -44,6 +44,8 @@ languageCode = "en-us"
   isPlainText = true
   notAlternative = true
 
+[blackfriday]
+hrefTargetBlank = true
 
 [params]
   description = "Local activist and lifelong progressive Democrat Steve Bacher is running in the Democratic Primary, May 15, 2018, to represent Bucks County and Montgomery County in the United States House of Representatives."
