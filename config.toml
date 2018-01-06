@@ -1,102 +1,70 @@
-
-title = "Steve Bacher - Progressive Democrat for Pennsylvania's 8th Congressional District"
 baseurl = "https://www.stevebacher.com"
-metaDataFormat = "yaml"
-themesDir = "layouts-base"
-theme = "tnd-base-layouts"
-googleAnalytics = "UA-111445999-1"
-paginate = 30
 buildFuture = true
-log = false
-
-#Set Disable Aliases to true to use Netlify Redirect headers
 disableAliases = true
-#SectionPagesMenu = "main"
-newContentEditor = "atom"
-
+googleAnalytics = "UA-111445999-1"
 languageCode = "en-us"
-
-[social]
-  twitter = "SteveBacher"
-  facebook = "SteveBacherForCongress"
-  #youtube = ""
-  #instagram = ""
-
+log = false
+metaDataFormat = "yaml"
+newContentEditor = "atom"
+paginate = 30
+theme = "tnd-base-layouts"
+themesDir = "layouts-base"
+title = "Steve Bacher - Progressive Democrat for Pennsylvania's 8th Congressional District"
 [author]
-  name = ""
-
-[outputs]
-  home = ["HTML", "HEADERS", "REDIRECTS"]
-
-[mediaTypes]
-[mediaTypes."text/netlify"]
-  suffix = ""
-  delimiter = ""
-[outputFormats]
-[outputFormats.REDIRECTS]
-  mediatype = "text/netlify"
-  baseName = "_redirects"
-  isPlainText = true
-  notAlternative = true
-[outputFormats.HEADERS]
-  mediatype = "text/netlify"
-  baseName = "_headers"
-  isPlainText = true
-  notAlternative = true
-
+name = ""
 [blackfriday]
 hrefTargetBlank = true
-
+[mediaTypes."text/netlify"]
+delimiter = ""
+suffix = ""
+[[menu.cta]]
+identifier = "join-the-team"
+name = "Join the Team"
+url = "/join-the-team/"
+weight = 4
+[[menu.main]]
+identifier = "issues"
+name = "Issues"
+url = "/issue/"
+weight = 2
+[[menu.main]]
+identifier = "news"
+name = "News"
+url = "/news/"
+weight = 3
+[[menu.main]]
+identifier = "about"
+name = "About Steve"
+url = "/about/"
+weight = 1
+[outputFormats.HEADERS]
+baseName = "_headers"
+isPlainText = true
+mediatype = "text/netlify"
+notAlternative = true
+[outputFormats.REDIRECTS]
+baseName = "_redirects"
+isPlainText = true
+mediatype = "text/netlify"
+notAlternative = true
+[outputs]
+home = ["HTML", "HEADERS", "REDIRECTS"]
 [params]
-  description = "Local activist and lifelong progressive Democrat Steve Bacher is running in the Democratic Primary, May 15, 2018, to represent Bucks County and Montgomery County in the United States House of Representatives."
-  home_page_quote = "2018 will be the year the Democratic activist resistance takes back the Congress. We can do this together. We must do it for ourselves, and for our children and our grandchildren. Let’s work together to make it so. <br />—Steve Bacher"
-  copy_footer = "PAID FOR BY FRIENDS OF STEVE BACHER"
-  address_footer = "PO Box 188 &bull; Morrisville, PA 19067"
-  title_footer = "Steve Bacher"
-  donate_link = "https://secure.actblue.com/donate/steve-bacher-for-congress-1"
-
-[params.styles]
-  body = "bg-near-white center site-fontTK sans-serif mid-gray mw9"
-  color_classes = "black bg-black"
-  background_color_class = "accent-color-dark"
-
-
+address_footer = "Friends of Steve Bacher &bull; PO Box 188 &bull; Morrisville, PA 19067"
+copy_footer = "PAID FOR BY FRIENDS OF STEVE BACHER"
+description = "Local activist and lifelong progressive Democrat Steve Bacher is running in the Democratic Primary, May 15, 2018, to represent Bucks County and Montgomery County in the United States House of Representatives."
+donate_link = "https://secure.actblue.com/donate/steve-bacher-for-congress-1"
+home_page_quote = "2018 will be the year the Democratic activist resistance takes back the Congress. We can do this together. We must do it for ourselves, and for our children and our grandchildren. Let’s work together to make it so. <br />—Steve Bacher"
+title_footer = "Steve Bacher"
 [params.dev]
-  js_path = "/static/dist/js"
-  css_path = "/static/dist/css"
-
+css_path = "/static/dist/css"
+js_path = "/static/dist/js"
+[params.styles]
+background_color_class = "accent-color-dark"
+body = "bg-near-white center site-fontTK sans-serif mid-gray mw9"
+color_classes = "black bg-black"
+[social]
+facebook = "SteveBacherForCongress"
+twitter = "SteveBacher"
 [taxonomies]
 category = "categories"
-
-[[menu.main]]
-name = "About Steve"
-weight = 1
-identifier = "about"
-url = "/about/"
-
-[[menu.main]]
-name = "Issues"
-weight = 2
-identifier = "issues"
-url = "/issue/"
-
-[[menu.main]]
-name = "News"
-weight = 3
-identifier = "news"
-url = "/news/"
-
-[[menu.cta]]
-name = "Join the Team"
-weight = 4
-identifier = "join-the-team"
-url = "/join-the-team/"
-
-
-
-
-# [[menu.main]]
-#   name = "Get Involved"
-#   weight = 1
-#   identifier = "get-involved"
-#   url = "/get-involved/"
