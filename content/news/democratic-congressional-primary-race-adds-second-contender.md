@@ -5,7 +5,6 @@ categories:
 - News
 images: []
 description: ''
-draft: true
 
 ---
 by Erich Martin
