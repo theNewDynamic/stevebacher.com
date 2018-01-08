@@ -9,3 +9,5 @@ The site is built with the following technologies:
 - Webpack to manage the asset pipeline.
 - Tachyons CSS library.
 - LazySizes JS library.
+
+The site is open source and we will soon be extracting the site's layouts into a reusable theme. If you wish to take the code, please do, but please respect that the site's content belongs to its owner. More to follow.
