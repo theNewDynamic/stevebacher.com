@@ -6,7 +6,6 @@ categories:
 - News
 images: []
 description: ''
-draft: true
 
 ---
 Published in [BucksLocalNews.com](http://www.buckslocalnews.com/news/touting-a-pro-democracy-platform-activist-joins-the-race-for/article_cae4453c-2252-5acd-9cf2-d62e2c4b3c34.html "Bucks Local News") on January 9, 2018
