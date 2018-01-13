@@ -1,5 +1,5 @@
 ---
-title: Guns
+title: Gun Safety
 date: 2017-12-31 09:26:27 -0500
 description: Along with the vast majority of Americans, I support universal background
   checks...
