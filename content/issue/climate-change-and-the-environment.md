@@ -6,7 +6,7 @@ description: I support the bipartisan proposal of the Citizens Climate Lobby to 
 images: []
 
 ---
-**I support the bipartisan proposal of the Citizens Climate Lobby to create a Carbon Dividend** which would gradually increase the price of fossil fuels and give a dividend back to each American citizen each month.  This would use the market to predictably transition our economy to 100% clean energy, creating millions of new jobs.  This approach, also called “putting a price on carbon,” has been endorsed by Republicans including Christine Todd Whitman and Charles Shultz, as well as numerous Democrats.
+**I support the bipartisan proposal of the Citizens Climate Lobby to create a Carbon Dividend** which would gradually increase the price of fossil fuels and give a dividend back to each American citizen each month.  This would use the market to predictably transition our economy to 100% clean energy, creating millions of new jobs.  This approach, also called “putting a price on carbon,” has been endorsed by Republicans including Christine Todd Whitman and George Shultz, as well as numerous Democrats.
 
 The Federal government should set aggressive deadlines for transitioning all government facilities, including the military, to 100% renewable energy (except for rare exceptions for select military necessities).
 
