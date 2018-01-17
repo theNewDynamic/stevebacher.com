@@ -8,7 +8,7 @@
       </li>
       {{ range $taxonomy.Pages }}
         <li class="list f5 w-100 hover-bg-white">
-          <a href="{{ .RelPermalink }}" class="f6 link ph3 ph4-ns pv2 db hover-white hover-bg-primary-color color-inherit{{ if eq $currentPageUrl .RelPermalink }} o-50{{end}}">
+          <a href="{{ .RelPermalink }}" class="f5 link ph3 ph4-ns pv2 db hover-white hover-bg-primary-color color-inherit{{ if eq $currentPageUrl .RelPermalink }} o-50{{end}}">
             {{ .LinkTitle }}
           </a>
         </li>
