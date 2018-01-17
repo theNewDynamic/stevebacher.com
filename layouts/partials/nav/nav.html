@@ -16,7 +16,7 @@
   {{ if .Site.Menus.main }}
     <ul class="pl0 mr3 white pv0 ml5-l">
       {{ range .Site.Menus.main }}
-      <li class="list f5 f6-ns font-family-brand fw4 dib pr2 pr3-ns ttu pv0">
+      <li class="list f5 font-family-brand fw4 dib pr2 pr3-ns ttu pv0">
         <a class="dim no-underline color-inherit" href="{{ .URL }}" title="{{ .Name }} page">
           {{ .Name }}
         </a>
@@ -39,7 +39,7 @@
         </ul>
       {{ end }}
       {{with .Site.Params.donate_link}}
-      <a href="{{.}}" class="f5 b link br2 ph3 pv2 db dib-l white bg-accent-color hover-bg-white hover-black mr4-l">DONATE</a>
+      <a href="{{.}}" class="f4 b link br2 ph3 pv2 db dib-l white bg-accent-color hover-bg-white hover-black mr4-l">DONATE</a>
       {{end}}
 
       <div class="absolute relative-ns top-0 right-0"> 
