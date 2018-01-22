@@ -26,4 +26,4 @@
 
 
 # Redirects
-/dcevent  https://secure.actblue.com/donate/maryanne
+/dcevent https://secure.actblue.com/donate/maryanne 302
