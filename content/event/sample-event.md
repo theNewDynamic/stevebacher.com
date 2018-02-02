@@ -16,4 +16,6 @@ images:
 draft: true
 
 ---
-Steve Bacher will participate in this "Meet the Candidates" night on February 5, hosted by the Warminster, PA Democrats. We hope to see you to discuss the issues that we are all fighting for. 
+Steve Bacher will participate in a "Meet the Candidates" night on February 5, hosted by the Warminster, PA Democrats. We hope to see you to discuss the issues that we are all fighting for.  
+
+Please consider [donating](https://secure.actblue.com/donate/steve-bacher-for-congress-1 "donate") to support Steve's campaign!
