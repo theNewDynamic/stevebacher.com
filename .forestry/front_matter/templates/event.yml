@@ -1,4 +1,6 @@
 ---
+pages:
+- event/bensalem-democrats-meeting.md
 hide_body: false
 fields:
 - name: title
