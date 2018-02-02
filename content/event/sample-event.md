@@ -1,16 +1,19 @@
 ---
-title: Sample Event
+title: Steve Bacher at "Meet the Candidates" night in Warminster, PA
 show_time: true
-date: '2018-02-14T17:00:00-05:00'
+date: 2018-02-05 19:00:00 -0500
 venue:
-  address: '180 West 22nd St'
-  city: 'New York'
-  name: Event Space
-  state: NY
-  zip: '10001'
-link: https://google.com/
-description: Short Description for meta data
-images: []
+  address: 645 Lewis Drive
+  city: Warminster
+  name: VFW Hall
+  state: PA
+  zip: 18974
+link: https://www.facebook.com/events/345868382562683/
+description: 'Steve Bacher (Democratic candidate for PA-8, house of representatives)
+  speaks at Meet the Candidate night. '
+images:
+- "/uploads/Headshot_with_embedded_logo-1200x600.jpg"
 draft: true
+
 ---
-Join Steve to discuss the issues.
+Steve Bacher will participate in this "Meet the Candidates" night on February 5, hosted by the Warminster, PA Democrats. We hope to see you to discuss the issues that we are all fighting for. 
