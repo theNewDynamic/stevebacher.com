@@ -1,5 +1,5 @@
 ---
-title: Steve Bacher at "Meet the Candidates" night in Warminster, PA
+title: Steve Bacher speaks at "Meet the Candidates" night in Warminster, PA
 show_time: true
 date: 2018-02-05 19:00:00 -0500
 venue:
