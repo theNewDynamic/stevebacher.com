@@ -37,6 +37,12 @@ identifier = "about"
 name = "About Steve"
 url = "/about/"
 weight = 1
+[[menu.main]]
+identifier = "events"
+name = "Events"
+url = "/event/"
+weight = 4
+
 [outputFormats.HEADERS]
 baseName = "_headers"
 isPlainText = true
