@@ -1,20 +1,18 @@
 <div class="f5 helvetica tracked black">
-{{with .Params.categories}}
-  {{ range . }}
-  <h2>{{- . -}}</h2>
-  {{ end }}
-{{end}}
-  </div>
-
-  {{if .Date}}
-    {{partial "components/time.html" (dict "context" . "show_time" false)}}
+  {{with .Params.categories}}
+    {{ range . }}
+      <h2>{{- . -}}</h2>
+    {{ end }}
   {{end}}
+</div>
+{{if .Date}}
+  {{partial "components/time.html" (dict "context" . "show_time" false)}}
+{{end}}
 <h1 class="f1 primary-color">
-    {{ .Title }}
-  </h1> {{with .Params.images}} {{ $images := index (.) 0 }} {{ if $images }} {{ partial "components/image.html" (dict "src" $images "class" "ma0 mw-100") }} {{ end }} {{end}}
+  {{ .Title }}
+</h1>
+{{with .Params.images}} {{ $images := index (.) 0 }} {{ if $images }} {{ partial "components/image.html" (dict "src" $images "class" "ma0 mw-100") }} {{ end }} {{end}}
 <div class="nested-copy-line-height lh-copy nested-links nested-img measure-widfe mid-gray">
-
   {{with .Params.author}}by {{.}}{{end}}
-
   {{ .Content }}
 </div>
