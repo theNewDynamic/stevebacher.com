@@ -26,6 +26,11 @@ fields:
   label: Venue
   type: field_group
   fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
   - name: address
     label: Address
     type: text
@@ -33,11 +38,6 @@ fields:
     default: ''
   - name: city
     label: City
-    type: text
-    hidden: false
-    default: ''
-  - name: name
-    label: Name
     type: text
     hidden: false
     default: ''
