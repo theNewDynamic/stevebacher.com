@@ -6,7 +6,7 @@
     {{with $events}}
       <ul class="pa0">
         <li class="list f3 b mb3 ph3 ph4-ns color-inherit">
-          Upcoming
+          Upcoming Events
         </li>
         {{ range . }}
             {{template "event_detail" (dict "context" . "currentPageUrl" $currentPageUrl)}}
