@@ -1,0 +1,16 @@
+{{ with .Params.venue }}
+<div class="mt2 mb4 lh-title">
+{{with .name }}
+  <div class="b f4">{{.}}</div>
+{{end}}
+  {{ .address }} {{with .city }}&bull; {{.}}{{end}}{{with .state}}, {{.}}{{end}} {{ .zip }}
+
+
+
+  {{ end }}
+  {{ with .Params.link }}<br />Link:
+    <a href="{{ printf  . | safeHTMLAttr }}" target="_blank" class="blue hover-blue link ">
+      {{ . | replaceRE "^https?://([^/]+).*" "$1"  }}
+    </a>
+</div>
+{{ end }}

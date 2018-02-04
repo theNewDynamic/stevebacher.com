@@ -1,0 +1,36 @@
+{{$event := (where .Site.RegularPages "Section" .Section) }}
+{{$events := where $event.Reverse ".Date.Unix" "ge" now.Unix }}
+{{$events_past := where $event.Reverse ".Date.Unix" "<" now.Unix }}
+{{$currentPageUrl := $.URL }}
+  <aside class="bg-inherit">
+    {{with $events}}
+      <ul class="pa0">
+        <li class="list f3 b mb3 ph3 ph4-ns color-inherit">
+          Upcoming
+        </li>
+        {{ range . }}
+            {{template "event_detail" (dict "context" . "currentPageUrl" $currentPageUrl)}}
+        {{ end }}
+      </ul>
+    {{end}}
+    {{with $events_past}}
+      <ul class="pa0">
+        <li class="list f3 b mb1 mt4 ph3 ph4-ns color-inherit">
+          Past Events
+        </li>
+        {{ range . }}
+            {{template "event_detail" (dict "context" . "currentPageUrl" $currentPageUrl)}}
+        {{ end }}
+      </ul>
+    {{end}}
+  </aside>
+
+{{define "event_detail"}}
+
+  {{.URL}}
+  <li class="list f5 w-100 hover-bg-white">
+    <a href="{{ .context.URL }}" class="f5 link ph3 ph4-ns pv2 db hover-white hover-bg-primary-color color-inherit{{ if eq .currentPageUrl .context.URL }} o-50{{end}}">
+    <time class="">{{- .context.Date.Format "Jan _2" -}}: </time>{{ .context.Title }}
+    </a>
+  </li>
+{{end}}

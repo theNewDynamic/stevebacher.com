@@ -1,0 +1,35 @@
+<div class="f5 helvetica tracked black">
+  {{with .Params.categories}}
+    {{ range . }}
+      <h2>{{- . -}}</h2>
+    {{ end }}
+  {{end}}
+</div>
+{{if .Date}}
+  {{partial "components/time.html" (dict "context" . "show_time" true "classes" "f4 db red sans-serif tracked")}}
+{{end}}
+<h1 class="f2 primary-color">
+  {{ .Title }}
+</h1>
+{{partial "events/venue.html" .}}
+{{with .Params.images}} {{ $images := index (.) 0 }} {{ if $images }} {{ partial "components/image.html" (dict "src" $images "class" "ma0 mw-100") }} {{ end }} {{end}}
+<div class="nested-copy-line-height lh-copy nested-links nested-img measure-widfe mid-gray">
+  {{ .Content }}
+</div>
+
+
+  {{/*
+  ---
+  date: 2017-02-03 19:00:00
+  link: http://www.Harvard.com
+  show_time: true
+  title: Harvard Book Store
+  venue:
+    address: 1256 Massachusetts Ave
+    city: Cambridge
+    name: Harvard Bookstore
+    state: MA
+    zip: 2138
+  ---
+
+  Reading */}}

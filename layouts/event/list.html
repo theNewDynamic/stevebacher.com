@@ -1,0 +1,29 @@
+{{ define "main" }} {{ $section := .Data.Pages }}{{$main_section := .Site.GetPage "section" .Section}}
+
+
+{{ $event := .Data.Pages.ByDate }}
+{{ $events := where $event ".Date.Unix" "ge" now.Unix }}
+{{ $events_past := where $event.Reverse ".Date.Unix" "<" now.Unix }}
+
+
+
+<div class="flex-ns flex-wrap center mv5 mw8 w-90">
+  {{if $events}}
+    {{ range  first 1 ($events) }}
+      <article class="w-100 w-70-ns bg-white pv4 ph4">
+        {{.Render "item"}}
+      </article>
+    {{end}}
+  {{else}}
+    {{range  first 1 ($events_past) }}
+      <article class="w-100 w-70-ns bg-white pv4 ph4">
+        <h2>Past Event</h2>
+        {{.Render "item"}}
+      </article>
+    {{end}}
+  {{end}}
+  <div class="br2 w-100 w-30-ns mb5">
+    {{ partial "menu-contextual-events.html" . }}
+  </div>
+</div>
+{{ end }}
