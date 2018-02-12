@@ -6,7 +6,6 @@ categories:
 description: 'Press Release: Steve Bacher Statement on White House Infrastructure
   Plan'
 images: []
-draft: true
 
 ---
 FOR IMMEDIATE RELEASE: February 12, 2018
