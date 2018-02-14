@@ -8,8 +8,8 @@
 {{if .Date}}
   {{partial "components/time.html" (dict "context" . "show_time" false)}}
 {{end}}
-<h1 class="f1 primary-color">
-  {{ .Title }}
+<h1 class="f3 f2-l primary-color">
+  {{- .Title -}}
 </h1>
 {{with .Params.images}} {{ $images := index (.) 0 }} {{ if $images }} {{ partial "components/image.html" (dict "src" $images "class" "ma0 mw-100") }} {{ end }} {{end}}
 <div class="nested-copy-line-height lh-copy nested-links nested-img measure-widfe mid-gray">
