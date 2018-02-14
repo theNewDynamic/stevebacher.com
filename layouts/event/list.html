@@ -1,9 +1,9 @@
 {{ define "main" }} {{ $section := .Data.Pages }}{{$main_section := .Site.GetPage "section" .Section}}
 
 
-{{ $event := .Data.Pages.ByDate }}
-{{ $events := where $event ".Date.Unix" "ge" now.Unix }}
-{{ $events_past := where $event.Reverse ".Date.Unix" "<" now.Unix }}
+{{$event := .Data.Pages.ByDate}}
+{{$events := where $event ".Date.Unix" "ge" now.Unix}}
+{{$events_past := where $event.Reverse ".Date.Unix" "<" now.Unix}}
 
 
 
