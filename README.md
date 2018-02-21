@@ -1,4 +1,4 @@
-# Website for Steve Bacher - Progressive Democrat - Candidate for Pennsylvania's 8th Congressional District
+# Website for Steve Bacher - Progressive Democrat - Candidate for Pennsylvania's 1st Congressional District
 
 https://www.stevebacher.com/
 

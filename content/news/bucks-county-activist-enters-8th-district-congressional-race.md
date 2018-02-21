@@ -1,5 +1,5 @@
 ---
-title: Bucks County activist enters 8th District congressional race
+title: Bucks County activist enters 1st District congressional race
 date: 2018-01-06 18:00:00 -0500
 categories:
 - News
@@ -9,13 +9,13 @@ description: ''
 ---
 by James Boyle
 
-Published on January 6, 2018 in the [Bucks County Courier Times](http://www.buckscountycouriertimes.com/news/20180106/bucks-county-activist-enters-8th-district-congressional-race "Bucks County activist enters 8th District Congressional Race")
+Published on January 6, 2018 in the [Bucks County Courier Times](http://www.buckscountycouriertimes.com/news/20180106/bucks-county-activist-enters-8th-district-congressional-race "Bucks County activist enters 1st District Congressional Race")
 
-Steve Bacher, of Lower Makefield, announced Saturday morning in Newtown Borough his campaign for the Democratic nomination in the 8th Congressional District election.
+Steve Bacher, of Lower Makefield, announced Saturday morning in Newtown Borough his campaign for the Democratic nomination in the 1st Congressional District election.
 
 A Lower Makefield Democrat is moving from the picket line to the ballot, seeking his party’s nomination in the 2018 congressional primary.
 
-After spending the last year protesting President Donald Trump’s agenda, Steve Bacher formally launched his campaign for the 8th Congressional District seat on Saturday morning.
+After spending the last year protesting President Donald Trump’s agenda, Steve Bacher formally launched his campaign for the 1st Congressional District seat on Saturday morning.
 
 “I’ve given my life to public service,” Bacher said during his kickoff speech. “I believe this is the year the pro-democracy, Democratic activist resistance will take back the House and Senate and save our nation from those who don’t care about our shared values and will loot and destroy our nation until they are stopped.”
 

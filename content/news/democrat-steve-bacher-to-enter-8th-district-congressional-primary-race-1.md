@@ -1,5 +1,5 @@
 ---
-title: Democrat Steve Bacher To Enter 8th District Congressional Primary Race
+title: Democrat Steve Bacher To Enter 1st District Congressional Primary Race
 date: 2018-01-05 17:15:20 +0000
 categories:
 - News
@@ -15,7 +15,7 @@ Published On: Fri, Jan 5th, 2018 in the New Hope Free Press
 
 Progressive activist Steve Bacher will kick off his campaign to unseat Brian Fitzpatrick on Saturday at 10 a.m. at The Temperance House in Newtown, organizers announced Friday. He will face Rachel Reddick and a rumored third candidate in the Democratic Primary Election being held May 15.
 
-Pennsylvania’s 8th congressional district includes Bucks County and part of Montgomery County, and Republican Brian Fitzpatrick has represented the district since 2017.
+Pennsylvania’s 1st congressional district includes Bucks County and part of Montgomery County, and Republican Brian Fitzpatrick has represented the district since 2017.
 
 Bacher, 55, is former vice chair of the Newtown Democratic Club, and served on the Newtown Township Environmental Advisory Council, and co-founded Bucks Environmental Action, a county-wide coalition of environmental and social justice groups. A longtime Newtown resident, Bacher, his wife, and two children currently reside in Lower Makefield.
 

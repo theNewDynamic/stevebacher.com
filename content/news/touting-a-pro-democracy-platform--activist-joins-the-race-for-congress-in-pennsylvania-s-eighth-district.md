@@ -14,9 +14,9 @@ by Jeff Werner; jwerner@21st-centurymedia.com; @jefwr1982 on Twitter
 
 NEWTOWN BOROUGH   It was bitterly cold outside, but inside The Temperance House on Jan. 6, Democratic activist Steve Bacher was warming up for what is expected to be a hotly contested race for U.S. Congress this year.
 
-Before an enthusiastic crowd of supporters, the former vice chairman of the Newtown Democratic Club and co-founder of Bucks Environmental Action, announced his “Pro-Democracy” candidacy for Congress in the 8th district of Pennsylvania.
+Before an enthusiastic crowd of supporters, the former vice chairman of the Newtown Democratic Club and co-founder of Bucks Environmental Action, announced his “Pro-Democracy” candidacy for Congress in the 1st district of Pennsylvania.
 
-“I’m here today to ask for your support not just to take back the 8th Congressional District, but even more importantly to take back our country,” he said.
+“I’m here today to ask for your support not just to take back the 1st Congressional District, but even more importantly to take back our country,” he said.
 
 “I believe this is the year the pro-Democracy, democratic activist resistance will take back the House and Senate and save our nation from those who don’t care about our shared values and will loot and destroy our nation until they are stopped,” said Bacher, to cheers and applause from his supporters.
 

@@ -15,7 +15,7 @@ Published on January 4, 2018 on WHYY.org
 
 Two more Democrats have emerged as likely candidates for the Bucks County congressional seat held by Republican U.S. Rep. Brian Fitzpatrick. Steve Bacher is an environmental activist. Scott Wallace is a wealthy progressive with a pedigree dating back to the New Deal. His grandfather, Henry Wallace served as vice president under Franklin Delano Roosevelt and ran an independent candidacy for president in 1948 under the banner of the Progressive Party.
 
-The 8th Congressional District appears to be a swing seat when you look at party registration and presidential votes, which are nearly evenly split between Republicans and Democrats.
+The 1st Congressional District appears to be a swing seat when you look at party registration and presidential votes, which are nearly evenly split between Republicans and Democrats.
 
 But freshman Fitzpatrick handily won the seat his brother Mike had held two years ago, and most analysts think it will take a strong national Democratic wave to take it back this year.
 
@@ -25,7 +25,7 @@ But there are now at least three candidates willing to try.
 
 Steve Bacher, 55, is co-founder of two environmental organizations: The Bucks County chapter of 350.org, which advocates for 100 percent renewable energy, and Bucks Environmental Action Group, a coalition which battles against fracking and pipeline construction.
 
-![Steve Bacher](https://whyy.org/wp-content/uploads/2018/01/steve-bacher-for-congress-facebook-300x300.jpg =300x300)Steve Bacher is a Democrat running to represent Pennsylvania’s 8th District in Congress. (Steve Bacher for Congress Facebook page)
+![Steve Bacher](https://whyy.org/wp-content/uploads/2018/01/steve-bacher-for-congress-facebook-300x300.jpg =300x300)Steve Bacher is a Democrat running to represent Pennsylvania’s 1st District in Congress. (Steve Bacher for Congress Facebook page)
 
 “I’ve spent a lot of time testifying at the Delaware River Basin Commission, working with the Delaware Riverkeepers, protesting and marching and doing everything I can to try and preserve our environment,” Bacher said in an interview.
 
@@ -51,7 +51,7 @@ The foundation has focused on the environment, human rights, and civic engagemen
 
 In that[ piece,](https://patrioticmillionaires.org/2016/03/30/why-i-am-a-patriotic-millionaire-scott-wallace/) Wallace described himself as a “patriotic millionaire.”
 
-When I spoke to Wallace a few weeks ago, he said he’d never thought of running for office before, but was considering running for 8th Congressional District because “the current situation in Washington is driving me crazy, and this is no ordinary time.”
+When I spoke to Wallace a few weeks ago, he said he’d never thought of running for office before, but was considering running for 1st Congressional District because “the current situation in Washington is driving me crazy, and this is no ordinary time.”
 
 Wallace still hasn’t announced a decision, but many Democrats expect him to enter the race soon.
 
