@@ -27,3 +27,8 @@ As New Yorkers with relatively safe Democratic Congressional representatives, we
 Register here: [https://secure.actblue.com/donate/parkslope](https://secure.actblue.com/donate/parkslope "Fundraiswer Registration")
 
 \(The event address is provided upon registration.**)**
+
+---
+
+Host Committee:  
+Frank Wood, Actor
