@@ -32,5 +32,5 @@ Register here: [https://secure.actblue.com/donate/parkslope](https://secure.actb
 ---
 
 Host Committee:  
-Frank Wood, Actor  
+Tony Award-winning Actor Frank Wood  
 George Russell
