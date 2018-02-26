@@ -1,5 +1,5 @@
 ---
-title: 'Fundraiser to support Steve Bacher for Congress: March 25 in Brooklyn, NY'
+title: Fundraiser to support Steve Bacher for Congress, Brooklyn, NY
 show_time: true
 date: 2018-03-25 11:00:56 -0400
 description: 'Fundraiser to support Steve Bacher for Congress: March 25 in Brooklyn,
