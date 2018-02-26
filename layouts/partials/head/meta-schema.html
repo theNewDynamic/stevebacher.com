@@ -5,7 +5,7 @@
 <meta itemprop="datePublished" content="{{ .PublishDate.Format $ISO8601 | safeHTML }}" />{{ end }}
 {{ if not .Date.IsZero }}<meta itemprop="dateModified" content="{{ .Date.Format $ISO8601 | safeHTML }}" />{{ end }}
 <meta itemprop="wordCount" content="{{ .WordCount }}">
-{{ with $.Param "images" }}{{ range first 6 . }}
+{{ with $.Param "images" | default $.Site.Params.images }}{{ range first 6 . }}
   <meta itemprop="image" content="{{ . | absURL }}">
 {{ end }}{{ end }}
 <!-- Output all taxonomies as schema.org keywords -->

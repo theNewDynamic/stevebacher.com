@@ -1,4 +1,4 @@
-{{- with $.Params.images -}}
+{{- with $.Params.images | default $.Site.Params.images -}}
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
 {{ else -}}
