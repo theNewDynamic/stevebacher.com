@@ -1,9 +1,9 @@
 ---
-title: Brooklyn, NY Fundraiser to support Steve Bacher for Congress
+title: 'Fundraiser to support Steve Bacher for Congress: March 25 in Brooklyn, NY'
 show_time: true
 date: 2018-03-25 11:00:56 -0400
-description: 'March 25, 2018: Fundraiser for Steve Bacher for Congress, in Park Slope,
-  Brooklyn'
+description: 'Fundraiser to support Steve Bacher for Congress: March 25 in Brooklyn,
+  NY'
 venue:
   name: Home of Rory Bernstein
   address: will be provided upon registration
