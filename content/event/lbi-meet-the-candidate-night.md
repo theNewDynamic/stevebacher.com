@@ -1,5 +1,5 @@
 ---
-title: LBCI Meet the Candidate Night
+title: Lower Bucks County Indivisibly Meet the Candidate Night
 show_time: true
 date: 2018-02-27 19:30:39 -0500
 venue:
@@ -8,8 +8,8 @@ venue:
   city: Newtown
   state: Pennsylvania
   zip: 18940
-description: ''
-link: ''
+description: 'Lower Bucks County Indivisible: Meet the Candidate Night'
+link: https://www.facebook.com/events/989547994503625/
 images: []
 
 ---
