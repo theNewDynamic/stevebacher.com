@@ -11,7 +11,6 @@ venue:
 description: ''
 link: ''
 images: []
-draft: true
 
 ---
 Lower Bucks County Indivisible is sponsoring this "Meet the Candidates" night for members of LBCI and members of other progressive groups in the 1st (formerly 8th) Congressional District to meet and ask questions of progressive-minded candidates on a range of topics, which could include but are not limited to: racism, corruption, authoritarianism. All three democratic candidates in our district's primary will be in attendance: Steve Bacher, Rachel Reddick and Scott Wallace. 
