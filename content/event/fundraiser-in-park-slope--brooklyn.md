@@ -10,7 +10,7 @@ venue:
   city: Brooklyn, NY
   state: NY
   zip: 11215
-link: ''
+link: https://secure.actblue.com/donate/parkslope
 images: []
 
 ---
