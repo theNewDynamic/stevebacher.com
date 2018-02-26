@@ -12,7 +12,7 @@ venue:
   zip: 11215
 link: https://secure.actblue.com/donate/parkslope
 images:
-- "/uploads/Headshot_with_embedded_logo-1200x600.jpg"
+- "/uploads/Headshot_with_embedded_logo.jpg"
 
 ---
 Please join us for a fundraiser brunch to support the candidacy of Steve Bacher, running for the House seat in Pennsylvania's 1st district (Southeastern PA). Steve is reaching out to Progressives in Brooklyn to gather support for his campaign. He will speak about a range of important issues and explain his motivation for running for Congress.
@@ -31,5 +31,5 @@ Register here: [https://secure.actblue.com/donate/parkslope](https://secure.actb
 
 ---
 
-Host Committee:
+Host Committee:  
 Frank Wood, Actor
