@@ -32,4 +32,7 @@ Register here: [https://secure.actblue.com/donate/parkslope](https://secure.actb
 ---
 
 Host Committee:  
-Frank Wood, Actor
+Frank Wood, Actor  
+Steve Bacher, Candidate  
+Mary Melchior, Campaign Manager  
+Rory Bernstein, Campaign Communications
