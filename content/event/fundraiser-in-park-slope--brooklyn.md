@@ -6,7 +6,7 @@ description: 'Fundraiser to support Steve Bacher for Congress: March 25 in Brook
   NY'
 venue:
   name: 'Location: Home of Rory Bernstein'
-  address: will be provided upon registration
+  address: Address will be provided upon registration
   city: Brooklyn, NY
   state: NY
   zip: 11215
