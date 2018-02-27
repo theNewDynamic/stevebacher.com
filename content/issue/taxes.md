@@ -1,6 +1,6 @@
 ---
 title: Taxes
-date: 2018-01-02 14:05:45 -0500
+date: 2017-12-31 14:05:45 -0500
 description: People who make a million dollars or more every year need to pay their
   fair share. 
 images: []
