@@ -14,4 +14,8 @@ I support a ban on Federal approvals for new fossil fuel infrastructure, such as
 
 The Environmental Protection Agency should be fully funded to enable the thorough and efficient enforcement of the Clean Air Act, The Clean Water Act, the Endangered Species Act and other environmental protections that keep our air, water and soil free from poisons.
 
-Fracking is poisoning our water, air and soil. I support a ban on new fracking wells. Enacting the Climate Dividend proposal (above) would force an orderly, predicable end to fracking as the price of natural gas rises.
+Fracking is poisoning our water, air and soil. I support a ban on new fracking wells. Enacting the Climate Dividend proposal would force an orderly, predicable end to fracking as the price of natural gas rises.
+
+Here is a link to the Carbon Fee and Dividend proposal details:
+
+[https://citizensclimatelobby.org/carbon-fee-and-dividend/](https://citizensclimatelobby.org/carbon-fee-and-dividend/ "https://citizensclimatelobby.org/carbon-fee-and-dividend/")
