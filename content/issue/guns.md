@@ -11,3 +11,5 @@ Along with the vast majority of Americans, I support background checks for _all_
 The minimum age for buying a gun should be 21, and there should be a waiting period of at least three days between the request for a permit to buy, which initiates a background check, and the purchase.  Internet sales of weapons and ammunition should also be banned.
 
 I'm open to suggestions from experts for additional legislation that would reduce the loss of life.
+
+Moms Demand Action For Gun Sense in America has a great web page that debunks gun myths:  [https://momsdemandaction.org/campaigns/debunking-gun-myths/](https://momsdemandaction.org/campaigns/debunking-gun-myths/ "debunks gun myths.").
