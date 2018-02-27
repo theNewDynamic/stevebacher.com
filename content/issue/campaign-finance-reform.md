@@ -1,6 +1,6 @@
 ---
 title: Campaign Finance Reform
-date: 2018-01-03 09:30:15 -0500
+date: 2018-01-02 09:30:15 -0500
 images: []
 description: ''
 
