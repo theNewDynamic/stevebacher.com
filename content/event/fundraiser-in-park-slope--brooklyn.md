@@ -33,4 +33,7 @@ Register here: [https://secure.actblue.com/donate/parkslope](https://secure.actb
 
 Host Committee:  
 Tony Award-winning Actor Frank Wood  
-George Russell
+George Russell  
+Lauren Levy & Jeffrey Burack  
+Kerith Gardner  
+Rory Bernstein
