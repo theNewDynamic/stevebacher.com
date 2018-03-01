@@ -10,8 +10,6 @@ images: []
 ---
 #### [Opinion](http://www.buckscountycouriertimes.com/search?text=Opinion)
 
-# Dissing democracy
-
 Posted at 5:00 AM, March 1, 2018
 
 [http://www.buckscountycouriertimes.com/opinion/20180301/dissing-democracy](http://www.buckscountycouriertimes.com/opinion/20180301/dissing-democracy "Dissing Democracy (Bucks County Courier Times)")
