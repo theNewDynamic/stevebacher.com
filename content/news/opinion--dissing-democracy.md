@@ -8,9 +8,7 @@ description: The Bucks County Courier Times comes out against endorsing a candid
 images: []
 
 ---
-#### [Opinion](http://www.buckscountycouriertimes.com/search?text=Opinion)
-
-Posted at 5:00 AM, March 1, 2018
+Posted at 5:00 AM, March 1, 2018 in the Bucks County Courier Times
 
 [http://www.buckscountycouriertimes.com/opinion/20180301/dissing-democracy](http://www.buckscountycouriertimes.com/opinion/20180301/dissing-democracy "Dissing Democracy (Bucks County Courier Times)")
 
