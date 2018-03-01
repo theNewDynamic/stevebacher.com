@@ -6,7 +6,6 @@ categories:
 description: The Bucks County Courier Times comes out against endorsing a candidate
   in the Democratic primary
 images: []
-draft: true
 
 ---
 #### [Opinion](http://www.buckscountycouriertimes.com/search?text=Opinion)
