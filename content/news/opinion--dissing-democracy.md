@@ -2,7 +2,7 @@
 title: 'Opinion: Dissing Democracy'
 date: 2018-03-01 14:41:54 +0000
 categories:
-- Op-ed
+- News
 description: The Bucks County Courier Times comes out against endorsing a candidate
   in the Democratic primary
 images: []
