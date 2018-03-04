@@ -1,7 +1,7 @@
 ---
 pages:
-- privacy-policy.md
 - events.md
+- privacy-policy.md
 hide_body: false
 fields:
 - name: title
