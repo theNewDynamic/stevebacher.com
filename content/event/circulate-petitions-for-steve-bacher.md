@@ -13,7 +13,6 @@ venue:
   city: ''
   state: PA
   zip: ''
-draft: true
 
 ---
 Please join the Steve Bacher for Congress team as we knock doors to gather signatures to get Steve on the ballot. We'll knock doors from 12 pm to 3 pmand 3 pm to 6 pm. We'll also be writing thank you postcards to petition signers and reaching out to additional campaign volunteers.  
