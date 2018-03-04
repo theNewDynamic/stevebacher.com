@@ -15,6 +15,6 @@ venue:
   zip: ''
 
 ---
-Please join the Steve Bacher for Congress team as we knock doors to gather signatures to get Steve on the ballot. We'll knock doors from 12 pm to 3 pmand 3 pm to 6 pm. We'll also be writing thank you postcards to petition signers and reaching out to additional campaign volunteers.  
+Please join the Steve Bacher for Congress team as we knock doors to gather signatures to get Steve on the ballot. We'll knock doors from 12 pm to 3 pm and also from 3 pm to 6 pm. We'll also be writing thank you postcards to petition signers and reaching out to additional campaign volunteers.  
 
 Looking forward to meeting you in our new 1st Congressional District!
