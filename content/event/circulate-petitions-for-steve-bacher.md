@@ -6,7 +6,7 @@ description: Circulate Petitions for Steve Bacher to get on the ballot for the P
   Congressional Primary
 link: https://www.facebook.com/events/899148230246331/
 images:
-- "/uploads/group photo canvassing IMG_8295.JPG"
+- "/uploads/group photo canvassing IMG_8295 cropped.JPG"
 venue:
   name: Steve Bacher Campaign HQ
   address: email info@stevebacher.com for details
