@@ -8,11 +8,11 @@ link: https://www.facebook.com/events/899148230246331/
 images:
 - "/uploads/group photo canvassing IMG_8295.JPG"
 venue:
-  name: ''
-  address: ''
-  city: ''
+  name: Steve Bacher Campaign HQ
+  address: 841 Duchess Drive
+  city: Yardley
   state: PA
-  zip: ''
+  zip: 19067
 
 ---
 Please join the Steve Bacher for Congress team as we knock doors to gather signatures to get Steve on the ballot. We'll knock doors from 12 pm to 3 pm and also from 3 pm to 6 pm. We'll also be writing thank you postcards to petition signers and reaching out to additional campaign volunteers.  
