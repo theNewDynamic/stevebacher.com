@@ -9,8 +9,8 @@ images:
 - "/uploads/group photo canvassing IMG_8295.JPG"
 venue:
   name: Steve Bacher Campaign HQ
-  address: 841 Duchess Drive
-  city: Yardley
+  address: email info@stevebacher.com for details
+  city: Lower Makefield
   state: PA
   zip: 19067
 
