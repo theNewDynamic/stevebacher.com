@@ -6,7 +6,7 @@ description: Open House & Petition Circulation to get Steve Bacher on the Ballet
   the Congressional Primary in PA-01
 link: https://www.facebook.com/events/193597454706019/
 images:
-- "/uploads/group photo canvassing IMG_8295.JPG"
+- "/uploads/group photo canvassing IMG_8295 cropped.JPG"
 venue:
   name: Steve Bacher Campaign HQ
   address: email info@stevebacher.com for details
