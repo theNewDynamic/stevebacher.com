@@ -9,7 +9,7 @@ images:
 - "/uploads/group photo canvassing IMG_8295.JPG"
 venue:
   name: Steve Bacher Campaign HQ
-  address: private message or email info@stevebacher.com for details
+  address: email info@stevebacher.com for details
   city: Lower Makefield
   state: PA
   zip: 19067
