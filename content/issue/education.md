@@ -9,4 +9,4 @@ images: []
 
 K-12 Education needs to be freed from the unintended consequences of No Child Left Behind:  an over-emphasis on testing.  Public elementary schools need to be allowed to return to instilling a love of learning while teaching the basics.  Elementary school should not be a stressful, test-driven environment.  Children should be taught creative thinking, so they can become the problem-solvers of tomorrow.  Linking teacher salaries to test scores has led to a degradation of our entire educational system, and it must stop.
 
-Post-secondary vocational training, community colleges and public colleges and universities should be offered debt-free.
+Post-secondary vocational training, community colleges and public colleges and universities should be offered debt-free.  We will be able to pay for this when the wealthiest 1% pay their fair share of taxes.
