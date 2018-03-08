@@ -1,6 +1,6 @@
 ---
 title: Labor Unions and Worker Rights
-date: 2018-03-08 12:44:28 +0000
+date: 2001-01-01 00:00:00 -0500
 images: []
 description: ''
 
