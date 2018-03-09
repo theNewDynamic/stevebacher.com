@@ -5,7 +5,6 @@ images:
 - "/uploads/Steve Kickoff Event -11.jpg"
 description: 'Text of speech given Jan 6, 2018 at official kickoff of the Steve Bacher
   for Congress campaign. '
-draft: true
 
 ---
 Good morning!
