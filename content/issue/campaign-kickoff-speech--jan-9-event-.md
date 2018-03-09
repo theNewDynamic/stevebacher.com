@@ -1,6 +1,6 @@
 ---
 title: Campaign Kickoff Speech (Jan 6 event)
-date: 2017-12-24 02:54:10 -0500
+date: 2017-12-17 02:54:10 -0500
 images:
 - "/uploads/Steve Kickoff Event -11.jpg"
 description: 'Text of speech given Jan 6, 2018 at official kickoff of the Steve Bacher
