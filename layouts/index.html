@@ -7,14 +7,29 @@
 {{ $endorsement := where .Site.RegularPages "Section" "endorsement"}}
 
 {{range first 1 $endorsement}}
-<article class="f2 serif measure-wide center pv5-l">
-<div class="f-subheadline fl moon-gray  nl4 ">&#8223;</div>
+{{/* <article class="f2 serif measure-wide center pv5-l">
+<div class="f-subheadline fl moon-gray nested-copy-line-height nl4 ">&#8223;</div>
   {{.Content}}
   <div class="f4">
     — {{.Title}}
       {{ partial "articles/link-to-original.html" (dict "item" .)}}
   </div>
+</article> */}}
+
+<article class="f3 f2-l serif measure-wide center ph4 ph6-l pv5-l">
+  <div class="f1 f-subheadline-l fl moon-gray nl3 nl4-l mt3-l">&#8223;</div>
+
+  <blockquote class="nested-copy-line-height mh0 mb5">
+    {{- .Content -}}
+  </blockquote>
+
+  <div class="f4 nt4">
+    — {{- .Title -}}
+      {{ partial "articles/link-to-original.html" (dict "item" .)}}
+  </div>
+
 </article>
+
 {{end}}
 
   <article id="news" class="ph3 ph5-l pv3 pv4-l f4 center lh-copy mid-gray w-100">
