@@ -1,0 +1,12 @@
+{{ define "main" }} {{ $section := where .Data.Pages "Section" .Section }}{{$main_section := .Site.GetPage "section" .Section}}
+  <div class="f3 flex-ns flex-wrap center mv5 mw8 w-90">
+  {{ range  first 1 ($section) }}
+    <article class="w-100 w-70-ns pv4 ph4 min-vh-100">
+    {{ partial "quote.html" .}}
+    </article>
+    {{end}}
+    <div class="br2 w-100 w-30-ns mb5 black bg-white ">
+      {{ partial "menu-contextual-endorsements.html" . }}
+    </div>
+  </div>
+{{ end }}

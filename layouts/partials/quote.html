@@ -1,0 +1,13 @@
+{{ $endorsement := where .Site.RegularPages "Section" "endorsement"}}
+{{range first 1 $endorsement}}
+  <article class="serif measure-wide center">
+    <blockquote class="quote nested-copy-line-height mh0 mb5">
+      {{- .Content -}}
+    </blockquote>
+
+    <div class="f4 nt4 b">
+      — {{- .Title -}}
+        {{ partial "articles/link-to-original.html" (dict "item" .)}}
+    </div>
+  </article>
+{{end}}

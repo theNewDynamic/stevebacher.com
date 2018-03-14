@@ -20,3 +20,35 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Work Sans', 'Roboto Slab', 'Work Sans', sans-serif;
   font-weight: 700;
 }
+
+.quote{
+  /* font-size: 30px; */
+  /* //margin: 0 auto; */
+  quotes: "\201C""\201D""\2018""\2019";
+  /* padding: 10px 20px; */
+  /* line-height: 1.4; */
+}
+
+.quote p:before {
+  content: open-quote;
+  display: inline;
+  height: 0;
+  line-height: 0;
+  left: -10px;
+  margin-left: -30px;
+  position: relative;
+  top: 30px;
+  color: #999;
+  font-size: 2.5em;
+}
+.quote p::after {
+  content: close-quote;
+  display: inline;
+  height: 0;
+  line-height: 0;
+  left: 10px;
+  position: relative;
+  top: 35px;
+  color: #999;
+  font-size: 2.5em;
+}

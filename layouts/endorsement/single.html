@@ -1,0 +1,10 @@
+{{ define "main" }} {{$main_section := .Site.GetPage "section" .Section}}
+<div class="flex-ns flex-wrap center mv5 mw8 w-90">
+  <article class="f3 w-100 w-70-ns pv4 ph4 min-vh-100">
+  {{ partial "quote.html" .}}
+  </article>
+  <div class="br2 w-100 w-30-ns mb5 black bg-white ">
+    {{ partial "menu-contextual-endorsements.html" . }}
+  </div>
+</div>
+{{ end }}
