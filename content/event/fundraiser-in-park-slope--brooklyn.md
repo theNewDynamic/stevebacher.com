@@ -33,6 +33,7 @@ Register here: [https://secure.actblue.com/donate/parkslope](https://secure.actb
 
 Host Committee:  
 Tony Award-winning Actor Frank Wood  
+Brad Lander, NYC Council Member (Council’s Deputy Leader for Policy)  
 George Russell  
 Glenn Lunden  
 Lauren Levy & Jeffrey Burack  
