@@ -1,6 +1,6 @@
 ---
 title: War, Peace and Defense
-date: 2018-01-02 15:08:11 -0500
+date: 2017-12-31 17:08:11 -0500
 images: []
 description: ''
 
