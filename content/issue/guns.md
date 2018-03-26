@@ -15,11 +15,11 @@ Along with the vast majority of Americans, I support, and will fight for:
 * creating a system to fairly identify and exclude people with **serious mental illnesses** from obtaining guns,
 * **restricting the sale of all ammunition** to civilians to small quantities, and restricting ammunition for automatic and semi-automatic weapons to the military and the police,
 * **banning silencers,**
-* **banning online sales of guns and ammunition.**
-* **Gun licenses** to be made more like automobile drivers licenses, with required education and testing in the safe use and storage of guns and ammunition; mental health screening should be required as well.
-* The **minimum age for buying a gun should be 21,**
-* there should be a **waiting period of at least three days** between the request for a permit to buy, which initiates a background check, and the purchase.
-* **repeal gun manufacturer liability immunity.**
+* **banning online sales of guns and ammunition,**
+* making **gun licenses** more like automobile drivers licenses, with required education and testing in the safe use and storage of guns and ammunition; 
+* raising the **minimum age for buying a gun to 21,**
+* creating a **waiting period of at least three days** between the request for a permit to buy, which initiates a background check, and the purchase, and
+* **repealing gun manufacturer liability immunity.**
 
 I'm open to suggestions from experts for additional legislation that would reduce the loss of life.
 
