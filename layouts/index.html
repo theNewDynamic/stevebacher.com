@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{/* Removed items-center from this top div at client request */}}
-  <div class="center ba1 br2 b--light-gray bg-white flex-l flex-wrap lh-copy nt5-ns w-90-l pa3"><div class="pa1 responsive-iframe w-100 w-60-l lazyload" data-noscript=""> <noscript><iframe width="720" height="405" src="https://www.youtube.com/embed/vty-AzzdljM?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></noscript></div><div class="br2 f4 w-100 w-40-l pa3 primary-color-dark bg-white-90">{{.Site.Params.home_page_quote | safeHTML}}</div></div>
+  <div class="center ba1 br2 b--light-gray bg-white flex-l flex-wrap lh-copy nt4-ns w-90-l pa3"><div class="pa1 responsive-iframe w-100 w-60-l lazyload" data-noscript=""> <noscript><iframe width="720" height="405" src="https://www.youtube.com/embed/vty-AzzdljM?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></noscript></div><div class="br2 f4 w-100 w-40-l pa3 primary-color-dark bg-white-90">{{.Site.Params.home_page_quote | safeHTML}}</div></div>
 
   {{ $endorsement := where .Site.RegularPages "Section" "endorsement"}}
   <div class="pv5 ph3 ph5-ns f3 f2-l serif measure-wide center">
