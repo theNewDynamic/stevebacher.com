@@ -1,5 +1,6 @@
 ---
 title: About Steve
+featured_image: "/uploads/steve-bacher-family-photo-2017.jpg"
 images:
 - "/uploads/Steve_B-0002-headshot-x700.jpg"
 - "/uploads/Bacher-DSC_7554.jpg"
