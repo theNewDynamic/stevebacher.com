@@ -6,6 +6,8 @@ description: Along with the vast majority of Americans, I support universal back
 images: []
 
 ---
+![March for Our Lives, Doylestown, PA. March 24, 2018](/uploads/gun safety page cropped.JPG "Steve Bacher for Congress")
+
 Along with the vast majority of Americans, I support, and will fight for:
 
 * **background checks** for _all_ gun sales including private sales and trades between individuals,
@@ -16,7 +18,7 @@ Along with the vast majority of Americans, I support, and will fight for:
 * **restricting the sale of all ammunition** to civilians to small quantities, and restricting ammunition for automatic and semi-automatic weapons to the military and the police,
 * **banning silencers,**
 * **banning online sales of guns and ammunition,**
-* making **gun licenses** more like automobile drivers licenses, with required education and testing in the safe use and storage of guns and ammunition; 
+* making **gun licenses** more like automobile drivers licenses, with required education and testing in the safe use and storage of guns and ammunition;
 * raising the **minimum age for buying a gun to 21,**
 * creating a **waiting period of at least three days** between the request for a permit to buy, which initiates a background check, and the purchase, and
 * **repealing gun manufacturer liability immunity.**
