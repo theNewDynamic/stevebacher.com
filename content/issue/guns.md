@@ -6,9 +6,7 @@ description: Along with the vast majority of Americans, I support universal back
 images: []
 
 ---
-![](/uploads/gun safetyp page horitzontal.JPG)
-
-Along with the vast majority of Americans, I support, and will fight for:
+![](/uploads/gun safetyp page horitzontal.JPG)Along with the vast majority of Americans, I support, and will fight for:
 
 * **background checks** for _all_ gun sales including private sales and trades between individuals,
 * restricting **military-style weapons**, such as automatic and semi-automatic weapons, and devices which turn non-automatics into automatics or semi-automatics, such as bump stocks, to use by the military and the police only,
