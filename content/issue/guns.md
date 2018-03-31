@@ -6,7 +6,7 @@ description: Along with the vast majority of Americans, I support universal back
 images: []
 
 ---
-![March for Our Lives, Doylestown, PA. March 24, 2018](/uploads/gun safety page cropped.JPG "Steve Bacher for Congress")
+![](/uploads/gun safetyp page horitzontal.JPG)
 
 Along with the vast majority of Americans, I support, and will fight for:
 
