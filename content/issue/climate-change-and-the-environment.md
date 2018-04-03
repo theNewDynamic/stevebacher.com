@@ -19,3 +19,5 @@ Fracking is poisoning our water, air and soil. I support a ban on new fracking 
 Here is a link to the Carbon Fee and Dividend proposal details:
 
 [https://citizensclimatelobby.org/carbon-fee-and-dividend/](https://citizensclimatelobby.org/carbon-fee-and-dividend/ "https://citizensclimatelobby.org/carbon-fee-and-dividend/")
+
+![](/uploads/Climate Protest in DC cropped.JPG)
