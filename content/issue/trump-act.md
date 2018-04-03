@@ -1,6 +1,6 @@
 ---
 title: TRUMP Act
-date: 2018-01-02 16:12:21 -0500
+date: 2017-12-22 16:12:21 -0500
 images: []
 description: ''
 
