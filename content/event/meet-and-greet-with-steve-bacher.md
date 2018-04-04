@@ -13,7 +13,6 @@ venue:
 link: https://www.facebook.com/events/426807694425327/
 images:
 - "/uploads/group photo canvassing IMG_8295 cropped.JPG"
-draft: true
 
 ---
 Please join us for a Meet and Greet with Steve Bacher, Congressional candidate in PA-01.   
