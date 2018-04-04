@@ -11,7 +11,8 @@ venue:
   state: PA
   zip: ''
 link: https://www.facebook.com/events/426807694425327/
-images: []
+images:
+- "/uploads/group photo canvassing IMG_8295 cropped.JPG"
 draft: true
 
 ---
