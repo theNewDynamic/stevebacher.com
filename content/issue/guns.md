@@ -6,7 +6,7 @@ description: Along with the vast majority of Americans, I support universal back
 images: []
 
 ---
-![](/uploads/gun safetyp page horitzontal.JPG)
+![](/uploads/mda-gun-sense-candidate logo.png)
 
 Along with the vast majority of Americans, I support, and will fight for:
 
@@ -25,6 +25,6 @@ Along with the vast majority of Americans, I support, and will fight for:
 
 I'm open to suggestions from experts for additional legislation that would reduce the loss of life.
 
-Moms Demand Action For Gun Sense in America has a great web page that debunks gun myths:  [https://momsdemandaction.org/campaigns/debunking-gun-myths/](https://momsdemandaction.org/campaigns/debunking-gun-myths/ "debunks gun myths.").
+Moms Demand Action For Gun Sense in America has a great web page that debunks gun myths:  [https://momsdemandaction.org/campaigns/debunking-gun-myths/](https://momsdemandaction.org/campaigns/debunking-gun-myths/ "https://momsdemandaction.org/campaigns/debunking-gun-myths/").
 
-![](/uploads/mda-gun-sense-candidate logo.png)
+![](/uploads/gun safetyp page horitzontal.JPG)
