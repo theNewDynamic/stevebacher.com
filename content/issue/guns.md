@@ -26,3 +26,5 @@ Along with the vast majority of Americans, I support, and will fight for:
 I'm open to suggestions from experts for additional legislation that would reduce the loss of life.
 
 Moms Demand Action For Gun Sense in America has a great web page that debunks gun myths:  [https://momsdemandaction.org/campaigns/debunking-gun-myths/](https://momsdemandaction.org/campaigns/debunking-gun-myths/ "debunks gun myths.").
+
+![](/uploads/mda-gun-sense-candidate logo.png)
