@@ -7,7 +7,9 @@ description: Our national minimum wage should be increased and regionally adjust
 images: []
 
 ---
-**Living Wage**: Our national minimum wage should be increased and regionally adjusted so that a family of four with one wage-earner working full-time at minimum wage can stay out of poverty.  The minimum wage should automatically be adjusted annually to keep up with inflation.  This starts with the Fight for $15 but does not end there.  In some parts of the country, a living wage is more than $15.
+**Living Wage**: Our national minimum wage should be increased and regionally adjusted so that a family of four with one wage-earner working full-time at minimum wage can stay out of poverty.  The minimum wage should automatically be adjusted annually to keep up with inflation.  This starts with the Fight for $15 but does not end there.  In some parts of the country, a living wage is more than $15.  
+
+The National Low Income Housing Coalition has a [calculator](http://nlihc.org/oor/ "calculator") that shows the minimum wage necessary for a family to rent a two-bedroom apartment and have their housing cost be no more than 30% of their income.  In Pennsylvania the average is more than $18.  Here in our district, some areas are even higher.  You would have to work 103 hours/week at the current minimum wage to afford a two-bedroom apartment, on average, in PA. 
 
 **Infrastructure**:  President Trump, Paul Ryan and Brian Fitzpatrick promised a jobs bill to rebuild our crumbling roads, bridges, power grid and other infrastructure. Where is it?  I would work to write and pass such a bill.
 
