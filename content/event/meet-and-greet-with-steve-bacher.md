@@ -2,8 +2,7 @@
 title: Meet and Greet with Steve Bacher
 show_time: true
 date: 2018-04-07 17:00:49 -0400
-description: Please join us for a Meet and Greet with Steve Bacher, Congressional
-  candidate in PA-01. 
+description: Meet and Greet with Steve Bacher, Congressional candidate in PA-01. 
 venue:
   name: Private home in Newtown Boro
   address: 'Please email info@stevebacher.com to RSVP. We will tell you the address. '
