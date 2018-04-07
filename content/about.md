@@ -10,7 +10,7 @@ type: page
 
 **Steve’s volunteer work** includes four years on Newtown Township’s Environmental Advisory Council, where he led the successful efforts to get the Supervisors to pass anti-fracking and anti-Elcon resolutions. He serves on the Steering Committee for Bucks 350.org, and helped organize and co-founded Bucks Environmental Action, a county-wide coalition of groups dedicated to protecting our air, water and soil, and addressing other environmental concerns. He attended training and has presented The Climate Reality Project’s slide show several times to students at Bucks County Community College, as well as to other community groups. Steve is a member of Newtown Friends Meeting (Quakers) and serves on its Children’s Religious Education and Peace and Service Committees.
 
-![](/uploads/steve-bacher-family-photo-2017.jpg "Steve's Family")
+![](/uploads/FRA_3015 outdoors good cropped.jpg)
 
 **Steve’s parents, Joel and Carolyn Bacher, moved to Newtown in 1996,** the same year Karen and Steve were married. Steve and his family followed Carolyn and Joel to Newtown in 2008. Steve and Karen have been married 21 years. Their son Julian is now 13, and their daughter Nana is 8.
 
