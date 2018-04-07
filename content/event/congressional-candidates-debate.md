@@ -13,4 +13,4 @@ link: ''
 images: []
 
 ---
-On April 26, 2018, there will be a debate for the Democratic candidates running in the Congressional primary election (PA-01). Please join us at 12:15 for a lively conversation about the issues that concern the residents of PA-01. 
+On April 26, 2018, starting at 12:15 PM, there will be a debate for the Democratic candidates running in the Congressional primary election (PA-01). Please join us at 12:15 for a lively conversation about the issues that concern the residents of PA-01.
