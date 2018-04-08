@@ -23,3 +23,15 @@ fields:
 - type: image_gallery
   name: images
   label: Images
+- type: field_group
+  name: quote
+  label: Quote
+  fields:
+  - type: text
+    name: attribution
+    label: Attribution
+  - type: textarea
+    label: Copy
+    name: copy
+    config:
+      wysiwyg: false
