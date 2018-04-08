@@ -12,6 +12,9 @@
     {{ range  first 1 ($events) }}
       <article class="w-100 w-70-ns bg-white pv4 ph4">
         {{.Render "item"}}
+        <div class="f6 mt5">
+          {{ partial "button-join-the-team.html" . }}
+        </div>
       </article>
     {{end}}
   {{else}}

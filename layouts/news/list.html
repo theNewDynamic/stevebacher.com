@@ -3,6 +3,9 @@
 {{ range  first 1 ($section) }}
   <article class="w-100 w-70-ns bg-white pv4 ph4">
   {{partial "news-item-format.html" .}}
+  <div class="f6 mt5">
+    {{ partial "button-join-the-team.html" . }}
+  </div>
   </article>
   {{end}}
   <div class="br2 w-100 w-30-ns mb5">
