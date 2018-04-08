@@ -4,7 +4,8 @@ type: page
 menu:
   main:
     name: Join the Team
-    weight: 1
+    identifier: join
+    weight: 100
 
 ---
 {{< newsletter >}}
