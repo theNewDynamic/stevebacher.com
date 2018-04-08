@@ -13,7 +13,6 @@ venue:
 link: ''
 images:
 - "/uploads/mda-gun-sense-candidate logo small.png"
-attribution: ''
 link_to_original: https://momsdemandaction.org/
 quote:
   attribution: ''

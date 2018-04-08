@@ -5,7 +5,6 @@ images:
 - "/uploads/AFTlogo.png"
 description: Steve has been endorsed by the Bucks County Community College American
   Federation of Teachers Union, local number 2238.
-attribution: ''
 link_to_original: https://www.aft.org/
 quote:
   attribution: ''
