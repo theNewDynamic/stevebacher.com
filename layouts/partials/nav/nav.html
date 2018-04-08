@@ -1,4 +1,8 @@
-<nav class="pv2 pv1-ns ph3 ph4-ns transition" role="navigation">
+<div class="bg-primary-color-light flex flex-wrap justify-end pb2 pt2-l pr3">
+  {{ partial "social-follow.html" . }}
+</div>
+
+<nav class="pb2 pv1-ns ph3 ph4-ns transition" role="navigation">
   <div class="flex-l items-center justify-between center white mw9">
     <div class="flex-l items-center justify-between"> 
       <h1>
@@ -6,11 +10,10 @@
           <img src="{{ "/uploads/SBacker-logo-white-blue.png" | absURL }}" class="nb2 h3" alt="Steve Bacher for Congress Logo"/>
         </a>
       </h1>
-
       {{ if .Site.Menus.main }}
         <ul class="pl0 mr3 white pv0 ml5-l">
           {{ range .Site.Menus.main }}
-          <li class="list f5 font-family-brand fw4 dib pr2 pr3-ns ttu pv0">
+          <li class="list f6 font-family-brand fw4 dib mb2 mb0-l pv1 ph2 pv1-ns ttu pv0{{ if eq .Identifier "join" }} ba b--near-white{{ end }}">
             <a class="dim no-underline color-inherit" href="{{ .URL }}" title="{{ .Name }} page">
               {{ .Name }}
             </a>
@@ -36,9 +39,7 @@
       <a href="{{.}}" class="f4 b link br2 ph3 pv2 db dib-l white bg-accent-color hover-bg-white hover-black mr4-l">DONATE</a>
       {{end}}
 
-      <div class="absolute relative-ns top-0 right-0"> 
-        {{ partial "social-follow.html" . }}
-      </div>
+
 
     </div>
   </div>
