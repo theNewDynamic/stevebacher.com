@@ -9,20 +9,6 @@ fields:
 - type: datetime
   name: date
   label: Date
-- name: attribution
-  label: Attribution
-  type: text
-  hidden: false
-  description: To make a word italicized put an *asterisk* before and after it, like
-    *italics!*
-- name: description
-  label: Description
-  type: text
-  hidden: false
-  default: ''
-- type: image_gallery
-  name: images
-  label: Images
 - type: field_group
   name: quote
   label: Quote
@@ -35,3 +21,13 @@ fields:
     name: copy
     config:
       wysiwyg: false
+  description: Use this for Blockquotes
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+  description: Good for SEO
+- type: image_gallery
+  name: images
+  label: Images
