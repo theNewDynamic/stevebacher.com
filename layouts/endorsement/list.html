@@ -2,7 +2,7 @@
   {{$main_section := .Site.GetPage "section" .Section}}
   <div class="f3 flex-ns flex-wrap center mv5 mw8">
 
-    <div class="w-100 w-70-ns">
+    <div class="w-100">
       <h1 class="ph4 f2 f1-l">{{$main_section.Title}}</h1>
       {{ range .Pages}}
         <article class="ph4 pv2 f3 serif list-view">
@@ -11,9 +11,9 @@
       {{end}}
     </div>
 
-    <div class="br2 w-100 w-30-ns mb5 black bg-white ">
+    {{/* <div class="br2 w-100 w-30-ns mb5 black bg-white ">
       {{ partial "menu-contextual-news.html" . }}
-    </div>
+    </div> */}}
 
   </div>
 {{ end }}

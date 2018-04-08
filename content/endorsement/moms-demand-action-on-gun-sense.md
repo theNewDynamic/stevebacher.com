@@ -11,10 +11,8 @@ venue:
   state: ''
   zip: ''
 link: ''
-images: []
+images: ["/uploads/mda-gun-sense-candidate logo small.png"]
 attribution: ''
 
 ---
 Moms Demand Action on Gun Sense has given Steve Bacher a "seal of approval", based on the strength of his policy positions on legislative changes to reduce gun violence in the United States. 
-
-![](/uploads/mda-gun-sense-candidate logo small.png)

@@ -1,9 +1,19 @@
 <blockquote class="ma0 nested-copy-line-height mb5">
-  {{ with .Params.images }}
-  <img src="{{ index . 0 }}" alt="" class="h4">
-  {{ end }}
+  <div class="flex flex-wrap">
+    {{ with .Params.images }}
+    <div class="w-100 w-third">
+      <img src="{{ index . 0 }}" alt="" class="mw-100">
+    </div>
+    <div class="w-two-thirds f4">
+      {{- $.Content -}}
+    </div>
+    {{ else }}
+      <div class="">
+        {{- .Content -}}
+      </div>
+    {{ end }}
 
-  {{- .Content -}}
+  </div>
   <footer class="f4 mt4 b">
     {{ with  .Params.attribution }}— {{- . -}}{{ end }}
     {{ partial "articles/link-to-original.html" (dict "item" .)}}
