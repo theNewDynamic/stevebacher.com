@@ -13,7 +13,8 @@ fields:
   label: Attribution
   type: text
   hidden: false
-  description: To make a word italicized put an *asterisk* before and after it, like *italics!*
+  description: To make a word italicized put an *asterisk* before and after it, like
+    *italics!*
 - name: description
   label: Description
   type: text
