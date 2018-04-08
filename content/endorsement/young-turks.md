@@ -2,6 +2,10 @@
 title: Cenk Uygur, The Young Turks
 date: 2018-03-14 13:27:42 -0400
 link_to_original: https://www.facebook.com/TYTpolitics/videos/1990239427890429/
+attribution: Cenk Uygur, The Young Turks
+description: " Cenk Uygur of The Young Turks endorsed Steve Bacher's campaign for
+  Congress in PA-01"
+images: []
 
 ---
 In a video interview, Cenk Uygur of The Young Turks endorsed Steve Bacher's campaign for Congress in PA-01:
