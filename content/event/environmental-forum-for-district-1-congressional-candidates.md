@@ -16,7 +16,7 @@ images: []
 ---
 Steve is pleased to participate in a forum about the environment with the Congressional candidates in PA01. 
 
-This is a free to the public event where candidates for the 1st Congressional District of PA will answer three questions, one from each topic of: 1) Climate Change, 2) Public Lands, and 3) Fossil Fuel / Alternative Energy. Preselected environmental questions (on the federal level) will be entertained, as time permits, from attendees to be selected by the Bucks Environmental Action Event Organizing Committee.
+This is a free, public event where candidates for the 1st Congressional District of PA will answer three questions, one from each topic of: 1) Climate Change, 2) Public Lands, and 3) Fossil Fuel / Alternative Energy. Preselected environmental questions (on the federal level) will be entertained, as time permits, from attendees to be selected by the Bucks Environmental Action Event Organizing Committee.
 
 To register for the event, click on the Eventbrite link.
 
