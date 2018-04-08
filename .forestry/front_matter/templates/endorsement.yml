@@ -31,3 +31,6 @@ fields:
 - type: image_gallery
   name: images
   label: Images
+- type: text
+  name: link_to_original
+  label: Link to Original
