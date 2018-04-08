@@ -1,6 +1,7 @@
 ---
 title: About Steve
 images:
+- "/uploads/FRA_3130 big smile cropped.jpg"
 - "/uploads/Steve_social_share_image_with_Logo-1200x.jpg"
 - "/uploads/Steve_B-0002-headshot-x700.jpg"
 - "/uploads/Bacher-DSC_7554.jpg"
