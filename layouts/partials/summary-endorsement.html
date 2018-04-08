@@ -11,7 +11,6 @@
 {{ else }}
   <div class="font-family-brand f4 nested-copy-line-height">
     {{- .Content -}}
-    {{ partial "articles/link-to-original.html" (dict "param" .Params.link_to_original) }}
   </div>
 {{ end }}
 {{ with .Params.quote }}
@@ -20,3 +19,4 @@
     {{ with  $.Params.attribution }}<span class="db f5 b mt2">— {{- . -}}</span>{{ end }}
   </blockquote>
 {{ end }}
+{{ partial "articles/link-to-original.html" (dict "param" .Params.link_to_original) }}
