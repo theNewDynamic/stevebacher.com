@@ -17,11 +17,11 @@ hrefTargetBlank = true
 [mediaTypes."text/netlify"]
 delimiter = ""
 suffix = ""
-[[menu.cta]]
-identifier = "join-the-team"
-name = "Join the Team"
-url = "/join-the-team/"
-weight = 4
+# [[menu.cta]]
+# identifier = "join-the-team"
+# name = "Join the Team"
+# url = "/join-the-team/"
+# weight = 4
 [[menu.main]]
 identifier = "events"
 name = "Events"
@@ -42,6 +42,12 @@ identifier = "about"
 name = "About Steve"
 url = "/about/"
 weight = 1
+[[menu.main]]
+identifier = "endorsements"
+name = "Endorsements"
+url = "/endorsement/"
+weight = 1
+
 [outputFormats.HEADERS]
 baseName = "_headers"
 isPlainText = true
