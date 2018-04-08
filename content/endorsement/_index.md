@@ -7,5 +7,6 @@ quote:
 description: ''
 images: []
 link_to_original: ''
+draft: true
 
 ---
