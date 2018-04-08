@@ -1,0 +1,24 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: datetime
+  name: date
+  label: Date
+- name: attribution
+  label: Attribution
+  type: text
+  hidden: false
+  description: To make a word italicized put an *asterisk* before and after it, like *italics!*
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- type: image_gallery
+  name: images
+  label: Images
