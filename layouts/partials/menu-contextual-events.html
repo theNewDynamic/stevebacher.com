@@ -1,6 +1,6 @@
 {{$event := (where .Site.RegularPages "Section" .Section) }}
 {{$events := where $event.Reverse ".Date.Unix" "ge" now.Unix }}
-{{$events_past := where $event.Reverse ".Date.Unix" "<" now.Unix }}
+{{$events_past := where $event ".Date.Unix" "<" now.Unix }}
 {{$currentPageUrl := $.URL }}
   <aside class="bg-inherit">
     {{with $events}}
