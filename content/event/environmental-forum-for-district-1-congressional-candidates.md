@@ -12,7 +12,6 @@ venue:
 description: candidates for the 1st Congressional District of PA will answer questions
   about environmental issues.
 images: []
-draft: true
 
 ---
 Steve is pleased to participate in a forum about the environment with the Congressional candidates in PA01. 
