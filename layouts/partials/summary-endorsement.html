@@ -1,22 +1,27 @@
-{{ with .Params.images }}
-  <div class="font-family-brand flex-ns flex-wrap items-center">
-    <div class="w-two-thirds-ns nested-copy-line-height f4 pr2-ns">
-      {{- $.Content -}}
-      {{ partial "articles/link-to-original.html" (dict "param" $.Params.link_to_original) }}
+<div class="mb3">
+  {{ with .Params.images }}
+    <div class="font-family-brand flex-ns flex-wrap items-center">
+      <div class="w-two-thirds-ns nested-copy-line-height f4 pr2-ns">
+        {{- $.Content -}}
+        {{ if not $.Params.quote.copy }}
+            {{ partial "articles/link-to-original.html" (dict "param" $.Params.link_to_original) }}
+        {{ end }}
+      </div>
+      <div class="w-100 w-third-ns">
+        <img src="{{ index . 0 }}" alt="" class="mw-100">
+      </div>
     </div>
-    <div class="w-100 w-third-ns">
-      <img src="{{ index . 0 }}" alt="" class="mw-100">
+  {{ else }}
+    <div class="font-family-brand f4 nested-copy-line-height">
+      {{- .Content -}}
     </div>
-  </div>
-{{ else }}
-  <div class="font-family-brand f4 nested-copy-line-height">
-    {{- .Content -}}
-  </div>
-{{ end }}
-{{ with .Params.quote }}
-  <blockquote class="font-family-brand quote f4 nested-copy-line-height lh-copy" cite="http://">
-    “{{ .copy }}”
-    {{ with  $.Params.attribution }}<span class="db f5 b mt2">— {{- . -}}</span>{{ end }}
-  </blockquote>
-{{ end }}
-{{ partial "articles/link-to-original.html" (dict "param" .Params.link_to_original) }}
+  {{ end }}
+  {{ with .Params.quote.copy }}
+    <blockquote class="font-family-brand quote f4 nested-copy-line-height lh-copy" cite="http://">
+      “{{ . }}”
+      {{ with  $.Params.attribution }}<span class="db f5 b mt2">— {{- . -}}</span>{{ end }}
+    </blockquote>
+    {{ partial "articles/link-to-original.html" (dict "param" $.Params.link_to_original) }}
+  {{ end }}
+
+</div>
