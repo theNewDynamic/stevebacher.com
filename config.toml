@@ -23,6 +23,11 @@ name = "Join the Team"
 url = "/join-the-team/"
 weight = 4
 [[menu.main]]
+identifier = "events"
+name = "Events"
+url = "/event/"
+weight = 4
+[[menu.main]]
 identifier = "issues"
 name = "Issues"
 url = "/issue/"
@@ -37,12 +42,6 @@ identifier = "about"
 name = "About Steve"
 url = "/about/"
 weight = 1
-[[menu.main]]
-identifier = "events"
-name = "Events"
-url = "/event/"
-weight = 4
-
 [outputFormats.HEADERS]
 baseName = "_headers"
 isPlainText = true
@@ -61,7 +60,7 @@ copy_footer = "PAID FOR BY FRIENDS OF STEVE BACHER"
 description = "Local activist and lifelong progressive Democrat Steve Bacher is running in the Democratic Primary, May 15, 2018, to represent Bucks County and Montgomery County in the United States House of Representatives."
 donate_link = "https://secure.actblue.com/donate/steve-bacher-for-congress-1"
 home_page_quote = "2018 will be the year the Democratic activist resistance takes back the Congress. We can do this together. We must do it for ourselves, and for our children and our grandchildren. Let’s work together to make it so. <br />—Steve Bacher"
-images = ["/uploads/Headshot_with_embedded_logo-1200x600.jpg"]
+images = ["/uploads/Steve_social_share_image_with_Logo.jpg"]
 title_footer = "Steve Bacher"
 [params.dev]
 css_path = "/static/dist/css"
@@ -72,7 +71,7 @@ body = "bg-near-white center site-fontTK sans-serif mid-gray mw9"
 color_classes = "black bg-black"
 [social]
 facebook = "SteveBacherForCongress"
-twitter = "SteveBacher"
 instagram = "stevebachercongress"
+twitter = "SteveBacher"
 [taxonomies]
 category = "categories"
