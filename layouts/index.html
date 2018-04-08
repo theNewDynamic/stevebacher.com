@@ -5,9 +5,11 @@
 
   {{ $endorsement := where .Site.RegularPages "Section" "endorsement"}}
   <div class="pv5 ph3 ph5-ns f3 f2-l serif measure-wide center">
-    {{range first 1 $endorsement}}
-      {{ partial "quote.html" .}}
+    {{range first 1 (after 2 $endorsement) }}
+      {{ partial "summary-endorsement.html" .}}
     {{end}}
+    <a href="/endorsement/" class="f4 b link br2 ph3 pv2 db dib-l font-family-brand white bg-accent-color hover-bg-white hover-black mr4-l">See All Endorsements</a>
+
   </div>
 
   <article id="news" class="ph3 ph5-l pv3 pv4-l f4 center lh-copy mid-gray w-100">
