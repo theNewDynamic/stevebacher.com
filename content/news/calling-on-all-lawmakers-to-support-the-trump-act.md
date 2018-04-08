@@ -1,10 +1,12 @@
 ---
 title: Calling on all lawmakers to support the TRUMP Act
 date: 2017-02-27 12:59:32 -0500
-categories: ['Op-ed']
+categories:
+- Op-ed
 description: Congressman Brian Fitzpatrick, and Sens. Toomey and Casey should join
   other members of Congress and pass the TRUMP Act immediately, unanimously.
 images: []
+
 ---
 _Bucks County Courier Times_
 

@@ -6,7 +6,9 @@ description: Despite the pleas of several residents to hold off, the Newtown Pla
   aimed at limiting the opportunity for fracking in the township if a current moratorium
   is lifted.
 images: []
-categories: ['News']
+categories:
+- News
+
 ---
 By Beth Fisher, correspondent
 

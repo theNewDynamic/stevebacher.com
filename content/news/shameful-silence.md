@@ -1,13 +1,15 @@
 ---
 title: Shameful silence
 date: 2016-12-27 13:01:38 -0500
-categories: ['Op-ed']
+categories:
+- Op-ed
 description: Congressman-elect Brian Fitzpatrick is missing in action. Since the election
   he has issued no statement on the upsurge in hate crimes in his district and the
   nation. No statement regarding the nomination of white supremacist Steve Bannon
   as senior advisor to the president-elect.
 images: []
 author: Steve Bacher
+
 ---
 _Bucks County Courier Times_
 
