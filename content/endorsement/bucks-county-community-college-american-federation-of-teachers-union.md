@@ -11,4 +11,4 @@ quote:
   copy: ''
 
 ---
-Steve has been endorsed by the Bucks County Community College American Federation of Teachers Union, local number 2238.
+Steve has been endorsed by the Bucks County Community College American Federation of Teachers Union, Local #2238.
