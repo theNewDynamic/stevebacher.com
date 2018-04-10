@@ -15,7 +15,6 @@ Along with the vast majority of Americans, I support, and will fight for:
 * **banning high capacity magazines**
 * preventing **convicted domestic abusers** from possessing guns,
 * creating a system to fairly identify and exclude people with **serious mental illnesses** from obtaining guns,
-* **restricting the sale of all ammunition** to civilians to small quantities, and restricting ammunition for automatic and semi-automatic weapons to the military and the police,
 * **banning silencers,**
 * **banning online sales of guns and ammunition,**
 * making **gun licenses** more like automobile drivers licenses, with required education and testing in the safe use and storage of guns and ammunition;
