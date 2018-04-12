@@ -5,7 +5,6 @@ categories:
 - News
 images: []
 description: ''
-draft: true
 
 ---
 **SYRIA SHOULD BE HANDLED ACCORDING TO INTERNATIONAL LAW** 
