@@ -4,7 +4,7 @@ date: 2018-04-12 12:25:03 +0000
 categories:
 - News
 images: []
-description: ''
+description: Steve Bacher's statement about use of military force in Syria
 
 ---
 **Congress Should Hold Hearings and Vote on Use of Force** 
