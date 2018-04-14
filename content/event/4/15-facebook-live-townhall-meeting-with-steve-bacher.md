@@ -11,7 +11,6 @@ venue:
   zip: ''
 description: ''
 images: []
-draft: true
 
 ---
 Please join Steve Bacher, Democratic Congressional candidate in Pennsylvania's new First District, for an online Townhall Meeting. To see the broadcast live, go to this link at 8 PM on Sunday 4/15/18:  
