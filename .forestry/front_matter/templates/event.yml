@@ -1,5 +1,6 @@
 ---
 pages:
+- event/4/15-facebook-live-townhall-meeting-with-steve-bacher.md
 - event/environmental-forum-for-district-1-congressional-candidates.md
 - event/local-pa-meet-the-candidates-night.md
 - event/congressional-candidates-debate.md
@@ -11,6 +12,7 @@ pages:
 - event/fundraiser-in-park-slope--brooklyn.md
 - event/bensalem-democrats-meeting.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title

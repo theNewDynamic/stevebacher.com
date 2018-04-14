@@ -6,6 +6,7 @@ pages:
 - issue/lgbt-rights.md
 - issue/women.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title
