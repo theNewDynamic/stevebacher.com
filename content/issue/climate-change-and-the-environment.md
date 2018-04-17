@@ -3,10 +3,11 @@ title: Climate Change and the Environment
 date: 2018-01-03 09:00:00 -0500
 description: I support the bipartisan proposal of the Citizens Climate Lobby to create
   a Carbon Dividend
-images: []
+images:
+- "/uploads/2018-Federal-Candidate-Questionnaire--Steve Bacher PA-01--Sierra Club.pdf"
 
 ---
-**I support the bipartisan proposal of the Citizens Climate Lobby to create a Carbon Dividend** which would gradually increase the price of fossil fuels and give a dividend back to each American citizen each month.  This would use the market to predictably transition our economy to 100% clean energy, creating millions of new jobs.  This approach, also called “putting a price on carbon,” has been endorsed by Republicans including Christine Todd Whitman and George Shultz, as well as numerous Democrats.  
+**_I support the bipartisan_ proposal of the Citizens Climate Lobby to create a Carbon Dividend** which would gradually increase the price of fossil fuels and give a dividend back to each American citizen each month.  This would use the market to predictably transition our economy to 100% clean energy, creating millions of new jobs.  This approach, also called “putting a price on carbon,” has been endorsed by Republicans including Christine Todd Whitman and George Shultz, as well as numerous Democrats.
 
 Here is a link to the Carbon Fee and Dividend proposal details:
 
