@@ -7,7 +7,6 @@ images:
 - "/uploads/townhall all dates cropped4.gif"
 description: Steve Bacher, Democratic Congressional Candidate in PA-01 to Host Online
   Town Hall Meetings
-draft: true
 
 ---
 _Lower Makefield, PA. — April 16, 2018._ Steve Bacher, Democratic Congressional candidate in Pennsylvania's new 1st district, will host a series of town hall-style Facebook Live meetings in the remaining weeks of the primary campaign. The events will begin at 8:00 p.m. and continue for at least 45 minutes, on Tuesday, April 17, Monday, April 23, Thursday, April 26, Sunday, April 29, Wednesday, May 2 and Sunday, May 6. The live stream video will be available on the [campaign's Facebook page](https://www.facebook.com/SteveBacherForCongress/ "Steve Bacher for Congress"), and will be archived for viewing after the broadcast is over. 
