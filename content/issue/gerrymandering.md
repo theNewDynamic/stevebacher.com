@@ -1,6 +1,6 @@
 ---
 title: Gerrymandering
-date: 2018-04-25 11:03:27 -0400
+date: 2017-12-23 13:03:27 -0500
 images: []
 description: ''
 
