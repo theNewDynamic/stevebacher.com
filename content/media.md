@@ -12,4 +12,4 @@ description: ''
 draft: true
 
 ---
-Images of Steve Bacher, Candidate for Congress in Pennsylvania's 1st district. 
+Hi-res Images of Steve Bacher, Candidate for Congress in Pennsylvania's 1st district.
