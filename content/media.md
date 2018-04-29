@@ -9,7 +9,7 @@ image_credit: ''
 where_published: ''
 link_to_original: ''
 description: ''
-draft: true
-
+draft: false
+type: media
 ---
 Hi-res Images of Steve Bacher, Candidate for Congress in Pennsylvania's 1st district.
