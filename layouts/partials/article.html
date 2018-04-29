@@ -6,7 +6,7 @@
     {{ end }}
   {{end}}
   <h1 class="f2 color-inherit">
-    {{ .Title | markdownify }}
+    {{ .Title | markdownify }} {{ .Type}}
   </h1>
   <section class="nested-copy-line-height lh-copy f5 f4-ns nested-links mid-gray">
   {{if (or (eq .Section "article") (eq .Section "event"))}}
@@ -20,8 +20,22 @@
     {{with .Params.description}}
       <p>{{. | markdownify}}</p>
     {{end}}
+
     {{.Content}}
 
+    {{ if eq .Type "media" }}
+      <div class="w-100 cb pt2">
+        <h3 class="mb1">Click image to view and download</h3>
+        {{ with .Params.images}}
+          {{ range . }}
+            <a href="{{ . }}">
+              <img src="{{ . }}" class="h4">
+            </a>
+          {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
+    
     {{if .Params.venue}}
       <div class="b--light-gray bt f6 mid-gray pt2 sans-serif">
         {{- partial "events/venue.html" . -}}
