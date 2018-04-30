@@ -1,9 +1,9 @@
 ---
 pages:
+- issue/mass-incarceration.md
 - issue/women.md
 - issue/lgbt-rights.md
 - issue/opioid-crisis.md
-- issue/mass-incarceration.md
 - issue/democratic-party-platform.md
 hide_body: false
 is_partial: false
