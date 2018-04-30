@@ -3,7 +3,6 @@ title: Rights for People living with Disabilities
 date: 2017-12-23 17:33:26 -0500
 images: []
 description: ''
-draft: true
 
 ---
 My daughter was born with part of her left hand missing.  Our family are active participants in and supporters of Camp No Limits, a nonprofit organization that creates camps across the United States for children with limb loss or limb differences, and their families.
