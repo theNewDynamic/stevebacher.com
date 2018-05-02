@@ -18,6 +18,10 @@ hrefTargetBlank = true
 delimiter = ""
 suffix = ""
 [[menu.main]]
+name = "Media"
+url = "/media"
+weight = 1
+[[menu.main]]
 identifier = "events"
 name = "Events"
 url = "/event/"

@@ -5,7 +5,7 @@ menu:
   main:
     name: Join the Team
     identifier: join
-    weight: 100
+    weight: 6
 
 ---
 {{< newsletter >}}
