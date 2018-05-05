@@ -23,6 +23,11 @@ name = "Events"
 url = "/event/"
 weight = 5
 [[menu.main]]
+identifier = "issues"
+name = "Issues"
+url = "/issue/"
+weight = 3
+[[menu.main]]
 identifier = "news"
 name = "News"
 url = "/news/"
@@ -32,11 +37,6 @@ identifier = "endorsements"
 name = "Endorsements"
 url = "/endorsement/"
 weight = 2
-[[menu.main]]
-identifier = "issues"
-name = "Issues"
-url = "/issue/"
-weight = 3
 [[menu.main]]
 identifier = "about"
 name = "About"

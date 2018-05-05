@@ -1,8 +1,8 @@
 ---
 pages:
-- events.md
-- privacy-policy.md
 - media.md
+- privacy-policy.md
+- events.md
 hide_body: false
 is_partial: false
 fields:
