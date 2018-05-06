@@ -13,6 +13,5 @@ venue:
   city: ''
   state: ''
   zip: ''
-draft: true
 
 ---
