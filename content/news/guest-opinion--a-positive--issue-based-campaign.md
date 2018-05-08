@@ -5,7 +5,6 @@ categories:
 - Op-ed
 images: []
 description: ''
-draft: true
 
 ---
 We candidates in the Democratic congressional primary should talk about issues, not each other. I am running a positive, issue-based campaign. You can view detailed positions on more than a dozen issues at [https://www.stevebacher.com/issue](https://www.stevebacher.com/issue "https://www.stevebacher.com/issue").
