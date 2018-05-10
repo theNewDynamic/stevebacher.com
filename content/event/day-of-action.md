@@ -1,5 +1,5 @@
 ---
-title: Day of Action
+title: Day of Action Sat. 5/12
 show_time: true
 date: 2018-05-12 10:00:29 -0400
 description: 'Please join us on Saturday, May 12, Sunday, May 13 and Monday, May 14,
@@ -13,6 +13,5 @@ venue:
   zip: ''
 link: ''
 images: []
-draft: true
 
 ---
