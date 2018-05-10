@@ -13,4 +13,6 @@ link: ''
 images: []
 
 ---
-Please join us on Saturday, May 12, Sunday, May 13 and Monday, May 14, from 10 a.m. to 6 p.m. for "Days of Action" (canvassing).     Email info@stevebacher.com to be connected with our volunteer coordinator.
+Please join us on Saturday, May 12, Sunday, May 13 and Monday, May 14, from 10 a.m. to 6 p.m. for "Days of Action" (canvassing).     
+
+Email info@stevebacher.com to be connected with our volunteer coordinator.
