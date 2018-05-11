@@ -8,4 +8,6 @@ images:
 description: ''
 
 ---
-Today Steve Bacher for Congress released a new video, "Reclaim Our Democracy - People First."  View the video: [https://youtu.be/aLuOFtn5kz4](https://youtu.be/aLuOFtn5kz4 "https://youtu.be/aLuOFtn5kz4")
+Today Steve Bacher for Congress released a new video, "Reclaim Our Democracy - People First."  
+
+{{< youtube aLuOFtn5kz4 >}}
