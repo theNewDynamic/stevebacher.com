@@ -1,0 +1,25 @@
+---
+label: home
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: text
+  name: featured_video
+  label: Featured Video
+- name: images
+  label: Images
+  type: image_gallery
+  hidden: false
+  default: ''
+- name: featured_image
+  label: Featured image
+  type: file
+  hidden: false
+  default: ''
+pages:
+- content/news/bacher-endorses-scott-wallace.md

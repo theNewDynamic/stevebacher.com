@@ -1,10 +1,5 @@
 ---
-pages:
-- issue/democratic-party-platform.md
-- issue/opioid-crisis.md
-- issue/lgbt-rights.md
-- issue/women.md
-- issue/mass-incarceration.md
+label: News
 hide_body: false
 is_partial: false
 fields:
@@ -35,3 +30,34 @@ fields:
   label: Description
   name: description
   description: Very Short. Good for SEO
+pages:
+- content/news/bucks-county-activist-enters-8th-district-congressional-race.md
+- content/news/crowds-have-thinned--but-anti-trump-sentiment-still-strong-among-bucks-county-activists.md
+- content/news/protesters-to-commission--no-pipeline--no-fracking-in-delaware-river-basin.md
+- content/news/congress-should-pass-the-trump-act.md
+- content/news/shameful-silence.md
+- content/news/what-will-be-our-pearl-harbor-of-climate-change-.md
+- content/news/democrat-steve-bacher-to-enter-8th-district-congressional-primary-race-1.md
+- content/news/steve-bacher-statement-on-white-house-infrastructure-plan.md
+- content/news/democratic-congressional-primary-race-adds-second-contender.md
+- content/news/democrats-rise-to-take-on-republican-rep.-fitzpatrick-in-bucks-county.md
+- content/news/newtown-township-planning-commission-recommends-advertising-fracking-regulations.md
+- content/news/fitzpatrick-sees-only-part-of-the-picture.md
+- content/news/brian-fitzpatrick-is-not-our-independent-voice-in-congress.md
+- content/news/democratic-activist-steve-bacher-announces-candidacy-for-u.s.-congress-in-pa-08.md
+- content/news/bacher-vows-to-fight-on-for-working-people-despite-party-endorsement.md
+- content/news/syria-should-be-handled-according-to-international-law.md
+- content/news/_index.md
+- content/news/newtown-township-supervisors-try-to-calm-fracking-fears.md
+- content/news/protest-in-newtown-over-trump-cabinet-planned-for-monday.md
+- content/news/opinion--dissing-democracy.md
+- content/news/calling-on-all-lawmakers-to-support-the-trump-act.md
+- content/news/guest-opinion--a-positive--issue-based-campaign.md
+- content/news/touting-a-pro-democracy-platform--activist-joins-the-race-for-congress-in-pennsylvania-s-eighth-district.md
+- content/news/bacher-releases-new-video.md
+- content/news/bacher-announces-series-of-town-hall-meetings.md
+- content/issue/mass-incarceration.md
+- content/issue/lgbt-rights.md
+- content/issue/democratic-party-platform.md
+- content/issue/women.md
+- content/issue/opioid-crisis.md

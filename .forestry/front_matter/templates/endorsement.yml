@@ -1,4 +1,5 @@
 ---
+label: Endorsement
 hide_body: false
 is_partial: false
 fields:
@@ -35,3 +36,8 @@ fields:
 - type: text
   name: link_to_original
   label: Link to Original
+pages:
+- content/endorsement/_index.md
+- content/endorsement/young-turks.md
+- content/endorsement/bucks-county-community-college-american-federation-of-teachers-union.md
+- content/endorsement/moms-demand-action-on-gun-sense.md

@@ -1,16 +1,27 @@
 ---
-upload_path: "/static/uploads/"
-frontmatter_file_url_template: "/uploads/"
-body_file_url_template: "/uploads/"
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-  endorsement:
-    default_front_matter_template: endorsement
-  issue:
-    default_front_matter_template: issue
-  news:
-    default_front_matter_template: news
+- path: content/news
+  label: News
+  create: all
+- path: content/event
+  label: Event
+  create: all
+- path: content/issue
+  label: Issue
+  create: all
+- path: content/endorsement
+  label: Endorsement
+  create: all
+- path: content
+  label: Pages
+  create: all
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: "/uploads"
+use_front_matter_path: false
+file_template: ":filename:"
 version: 0.31.1

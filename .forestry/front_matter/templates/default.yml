@@ -1,8 +1,5 @@
 ---
-pages:
-- media.md
-- privacy-policy.md
-- events.md
+label: Default
 hide_body: false
 is_partial: false
 fields:
@@ -19,3 +16,7 @@ fields:
 - type: image_gallery
   name: images
   label: Images
+pages:
+- content/events.md
+- content/privacy-policy.md
+- content/media.md
