@@ -1,5 +1,5 @@
 ---
-title: Bacher Endorses Scott Wallace
+title: Bacher Thanks Supporters, Endorses Scott Wallace
 date: 2018-07-24 17:03:27 -0400
 featured_video: ''
 images: []
