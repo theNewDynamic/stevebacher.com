@@ -4,7 +4,6 @@ date: 2018-07-24 17:03:27 -0400
 featured_video: ''
 images: []
 featured_image: ''
-draft: true
 
 ---
 Dear Friends,
