@@ -4,24 +4,47 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-- path: content/news
-  label: News
-  create: all
-- path: content/event
-  label: Event
-  create: all
-- path: content/issue
-  label: Issue
-  create: all
-- path: content/endorsement
-  label: Endorsement
-  create: all
-- path: content
+- type: directory
+  path: content
   label: Pages
   create: all
+  match: "*"
+- type: directory
+  path: content/endorsement
+  label: Endorsement
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/event
+  label: Event
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/issue
+  label: Issue
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/news
+  label: News
+  create: all
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
 use_front_matter_path: false
 file_template: ":filename:"
+build:
+  preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+  publish_command: hugo -d public
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.31.1
+  publish_env:
+  - HUGO_ENV=production
+  - HUGO_VERSION=0.31.1
+  preview_output_directory: public
+  output_directory: public
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
 version: 0.31.1

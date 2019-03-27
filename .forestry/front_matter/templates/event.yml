@@ -1,7 +1,6 @@
 ---
 label: Event
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -61,20 +60,20 @@ fields:
   name: images
   label: Images
 pages:
-- content/event/steve-bacher-for-congress-campaign-kickoff-and-website-launch.md
-- content/event/fundraiser-in-park-slope--brooklyn.md
-- content/event/lbi-meet-the-candidate-night.md
-- content/event/open-house-and-petition-circulation.md
-- content/event/circulate-petitions-for-steve-bacher.md
-- content/event/meet-and-greet-with-steve-bacher.md
-- content/event/congressional-candidates-debate.md
-- content/event/local-pa-meet-the-candidates-night.md
-- content/event/environmental-forum-for-district-1-congressional-candidates.md
-- content/event/4/15-facebook-live-townhall-meeting-with-steve-bacher.md
-- content/event/facebook-live-town-hall.md
-- content/event/day-of-action.md
 - content/event/cinco-de-mayo-wine-and-dessert-fundraiser.md
-- content/event/test-event-2.md
-- content/event/bensalem-democrats-meeting.md
+- content/event/day-of-action.md
+- content/event/facebook-live-town-hall.md
+- content/event/4/15-facebook-live-townhall-meeting-with-steve-bacher.md
+- content/event/environmental-forum-for-district-1-congressional-candidates.md
+- content/event/local-pa-meet-the-candidates-night.md
+- content/event/congressional-candidates-debate.md
+- content/event/meet-and-greet-with-steve-bacher.md
+- content/event/circulate-petitions-for-steve-bacher.md
+- content/event/open-house-and-petition-circulation.md
+- content/event/lbi-meet-the-candidate-night.md
+- content/event/fundraiser-in-park-slope--brooklyn.md
+- content/event/steve-bacher-for-congress-campaign-kickoff-and-website-launch.md
 - content/event/day-of-action-sun-5/13.md
 - content/event/day-of-action-mon-5/14.md
+- content/event/bensalem-democrats-meeting.md
+- content/event/test-event-2.md

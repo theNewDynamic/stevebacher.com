@@ -1,7 +1,6 @@
 ---
 label: Issue
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -21,20 +20,20 @@ fields:
   name: description
   description: Very Short. Good for SEO
 pages:
-- content/issue/healthcare.md
-- content/issue/education.md
-- content/issue/marijuana.md
-- content/issue/war--peace-and-defense.md
-- content/issue/trump-act.md
-- content/issue/gerrymandering.md
-- content/issue/taxes.md
-- content/issue/jobs-and-working-families.md
-- content/issue/campaign-finance-reform.md
-- content/issue/_index.md
-- content/issue/safe-and-secure-borders.md
-- content/issue/rights-for-people-living-with-disabilities.md
-- content/issue/guns.md
-- content/issue/climate-change-and-the-environment.md
-- content/issue/labor-unions.md
-- content/issue/campaign-kickoff-speech--jan-9-event-.md
 - content/issue/immigration.md
+- content/issue/campaign-kickoff-speech--jan-9-event-.md
+- content/issue/jobs-and-working-families.md
+- content/issue/taxes.md
+- content/issue/gerrymandering.md
+- content/issue/trump-act.md
+- content/issue/war--peace-and-defense.md
+- content/issue/marijuana.md
+- content/issue/education.md
+- content/issue/healthcare.md
+- content/issue/labor-unions.md
+- content/issue/climate-change-and-the-environment.md
+- content/issue/guns.md
+- content/issue/rights-for-people-living-with-disabilities.md
+- content/issue/safe-and-secure-borders.md
+- content/issue/_index.md
+- content/issue/campaign-finance-reform.md

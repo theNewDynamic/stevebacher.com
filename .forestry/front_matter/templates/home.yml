@@ -1,7 +1,6 @@
 ---
 label: home
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -22,4 +21,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/i-m-not-running-for-anything-in-the-foreseeable-future.md
 - content/news/bacher-endorses-scott-wallace.md
